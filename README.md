@@ -12,4 +12,4 @@
 - detect-gpt: `run.py`.
 - fast-detect-gpt: `scripts/local_infer.py`
 - ghostbuster: `test.py`
-- R-detect: `run_evaluation.py`
+- R-detect: 先运行`build_our_dataset.py`修改数据集格式, 然后运行`feature_ref_generater.py`得到当前数据集的特征文件`.pt`, 最后运行`run_evaluation.py`得到结果。
