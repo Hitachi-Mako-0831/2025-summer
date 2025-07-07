@@ -1,0 +1,3002 @@
+[
+    {
+        "Index": 0,
+        "Title": "Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models.",
+        "Start": "Finetuning large language models (LLMs) has been empirically effective on a variety of downstream tasks.",
+        "Length": 244
+    },
+    {
+        "Index": 1,
+        "Title": "Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances.",
+        "Start": "Discovering the semantics of multimodal utterances is essential for understanding human language and enhancing human-machine",
+        "Length": 175
+    },
+    {
+        "Index": 2,
+        "Title": "MAGE: Machine-generated Text Detection in the Wild.",
+        "Start": "Large language models (LLMs) have achieved human-level text generation, emphasizing the need for effective deepfake",
+        "Length": 139
+    },
+    {
+        "Index": 3,
+        "Title": "PrivLM-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models.",
+        "Start": "The rapid development of language models (LMs) brings unprecedented accessibility and usage for both models",
+        "Length": 186
+    },
+    {
+        "Index": 4,
+        "Title": "GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators.",
+        "Start": "Recent advances in large language models (LLMs) have stepped forward the development of multilingual speech",
+        "Length": 168
+    },
+    {
+        "Index": 5,
+        "Title": "Exploring Chain-of-Thought for Multi-modal Metaphor Detection.",
+        "Start": "Metaphors are commonly found in advertising and internet memes. However, the free form of internet",
+        "Length": 166
+    },
+    {
+        "Index": 6,
+        "Title": "BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation.",
+        "Start": "The upscaling of Large Language Models (LLMs) has yielded impressive advances in natural language processing,",
+        "Length": 149
+    },
+    {
+        "Index": 7,
+        "Title": "A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation.",
+        "Start": "Temporal knowledge graph (TKG) reasoning has two settings: interpolation reasoning and extrapolation reasoning. Both of",
+        "Length": 183
+    },
+    {
+        "Index": 8,
+        "Title": "Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation.",
+        "Start": "Retrieval-augmented generation (RAG) enhances large language models (LLMs) by incorporating additional information from retrieval. However,",
+        "Length": 195
+    },
+    {
+        "Index": 9,
+        "Title": "CSCD-NS: a Chinese Spelling Check Dataset for Native Speakers.",
+        "Start": "In this paper, we present CSCD-NS, the first Chinese spelling check (CSC) dataset designed for",
+        "Length": 147
+    },
+    {
+        "Index": 10,
+        "Title": "Evaluating Dynamic Topic Models.",
+        "Start": "There is a lack of quantitative measures to evaluate the progression of topics through time",
+        "Length": 114
+    },
+    {
+        "Index": 11,
+        "Title": "How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition.",
+        "Start": "Large language models (LLMs) with enormous pre-training tokens and parameters emerge diverse abilities, including math",
+        "Length": 222
+    },
+    {
+        "Index": 12,
+        "Title": "Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification.",
+        "Start": "In legal decisions, split votes (SV) occur when judges cannot reach a unanimous decision, posing",
+        "Length": 192
+    },
+    {
+        "Index": 13,
+        "Title": "Inference to the Best Explanation in Large Language Models.",
+        "Start": "While Large Language Models (LLMs) have found success in real-world applications, their underlying explanatory process",
+        "Length": 169
+    },
+    {
+        "Index": 14,
+        "Title": "A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus.",
+        "Start": "Natural language inference (NLI), the task of recognizing the entailment relationship in sentence pairs, is",
+        "Length": 162
+    },
+    {
+        "Index": 15,
+        "Title": "MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering.",
+        "Start": "Recent advances in few-shot question answering (QA) mostly rely on the power of pre-trained large",
+        "Length": 199
+    },
+    {
+        "Index": 16,
+        "Title": "SportsMetrics: Blending Text and Numerical Data to Understand Information Fusion in LLMs.",
+        "Start": "Large language models hold significant potential for integrating various data types, such as text documents",
+        "Length": 149
+    },
+    {
+        "Index": 17,
+        "Title": "SciMON: Scientific Inspiration Machines Optimized for Novelty.",
+        "Start": "We explore and enhance the ability of neural language models to generate novel scientific directions",
+        "Length": 166
+    },
+    {
+        "Index": 18,
+        "Title": "Expedited Training of Visual Conditioned Language Generation via Redundancy Reduction.",
+        "Start": "We introduce EVLGen, a streamlined framework designed for the pre-training of visually conditioned language generation",
+        "Length": 196
+    },
+    {
+        "Index": 19,
+        "Title": "Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models.",
+        "Start": "As the use of Large Language Models (LLMs) becomes more widespread, understanding their self-evaluation of",
+        "Length": 165
+    },
+    {
+        "Index": 20,
+        "Title": "Retrieval-Augmented Multilingual Knowledge Editing.",
+        "Start": "Knowledge represented in Large Language Models (LLMs) is quite often incorrect and can also become",
+        "Length": 188
+    },
+    {
+        "Index": 21,
+        "Title": "Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge.",
+        "Start": "Large Language Models (LLMs) have demonstrated remarkable success in tasks like the Winograd Schema Challenge",
+        "Length": 145
+    },
+    {
+        "Index": 22,
+        "Title": "Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models.",
+        "Start": "Research on Large Language Models (LLMs) has often neglected subtle biases that, although less apparent,",
+        "Length": 170
+    },
+    {
+        "Index": 23,
+        "Title": "Framing in the Presence of Supporting Data: A Case Study in U.S. Economic News.",
+        "Start": "The mainstream media has much leeway in what it chooses to cover and how it",
+        "Length": 218
+    },
+    {
+        "Index": 24,
+        "Title": "Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences.",
+        "Start": "Multimodal Large Language Models (MLLMs) have demonstrated proficiency in handling a variety of visual-language tasks.",
+        "Length": 168
+    },
+    {
+        "Index": 25,
+        "Title": "TTM-RE: Memory-Augmented Document-Level Relation Extraction.",
+        "Start": "Document-level relation extraction aims to categorize the association between any two entities within a document.We",
+        "Length": 210
+    },
+    {
+        "Index": 26,
+        "Title": "Answer is All You Need: Instruction-following Text Embedding via Answering the Question.",
+        "Start": "This work aims to build a text embedder that can capture characteristics of texts specified",
+        "Length": 181
+    },
+    {
+        "Index": 27,
+        "Title": "Explore Spurious Correlations at the Concept Level in Language Models for Text Classification.",
+        "Start": "Language models (LMs) have achieved notable success in numerous NLP tasks, employing both fine-tuning and",
+        "Length": 160
+    },
+    {
+        "Index": 28,
+        "Title": "Every Answer Matters: Evaluating Commonsense with Probabilistic Measures.",
+        "Start": "Large language models have demonstrated impressive performance on commonsense tasks; however, these tasks are often",
+        "Length": 120
+    },
+    {
+        "Index": 29,
+        "Title": "GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis.",
+        "Start": "Large Language Models (LLMs) face threats from jailbreak prompts. Existing methods for detecting jailbreak prompts",
+        "Length": 162
+    },
+    {
+        "Index": 30,
+        "Title": "Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy.",
+        "Start": "Empathy is a social mechanism used to support and strengthen emotional connection with others, including",
+        "Length": 104
+    },
+    {
+        "Index": 31,
+        "Title": "An Information-Theoretic Approach to Analyze NLP Classification Tasks.",
+        "Start": "Understanding the contribution of the inputs on the output is useful across many tasks. This",
+        "Length": 151
+    },
+    {
+        "Index": 32,
+        "Title": "Can Your Model Tell a Negation from an Implicature? Unravelling Challenges With Intent Encoders.",
+        "Start": "Conversational systems often rely on embedding models for intent classification and intent clustering tasks. The",
+        "Length": 184
+    },
+    {
+        "Index": 33,
+        "Title": "Wav2Gloss: Generating Interlinear Glossed Text from Speech.",
+        "Start": "Thousands of the world’s languages are in danger of extinction—a tremendous threat to cultural identities",
+        "Length": 137
+    },
+    {
+        "Index": 34,
+        "Title": "Leveraging Codebook Knowledge with NLI and ChatGPT for Zero-Shot Political Relation Classification.",
+        "Start": "Is it possible accurately classify political relations within evolving event ontologies without extensive annotations? This",
+        "Length": 137
+    },
+    {
+        "Index": 35,
+        "Title": "SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation.",
+        "Start": "Compositional generalization is an important ability of language models and has many different manifestations. For",
+        "Length": 143
+    },
+    {
+        "Index": 36,
+        "Title": "OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following.",
+        "Start": "Embodied Instruction Following (EIF) is a crucial task in embodied learning, requiring agents to interact",
+        "Length": 172
+    },
+    {
+        "Index": 37,
+        "Title": "Multimodal Instruction Tuning with Conditional Mixture of LoRA.",
+        "Start": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable proficiency in diverse tasks across different domains,",
+        "Length": 181
+    },
+    {
+        "Index": 38,
+        "Title": "DocLens: Multi-aspect Fine-grained Medical Text Evaluation.",
+        "Start": "Medical text generation aims to assist with administrative work and highlight salient information to support",
+        "Length": 132
+    },
+    {
+        "Index": 39,
+        "Title": "FOFO: A Benchmark to Evaluate LLMs' Format-Following Capability.",
+        "Start": "This paper presents FoFo, a pioneering benchmark for evaluating large language models’ (LLMs) ability to",
+        "Length": 147
+    },
+    {
+        "Index": 40,
+        "Title": "Hyper-CL: Conditioning Sentence Representations with Hypernetworks.",
+        "Start": "While the introduction of contrastive learning frameworks in sentence representation learning has significantly contributed to",
+        "Length": 141
+    },
+    {
+        "Index": 41,
+        "Title": "Analysis of Multi-Source Language Training in Cross-Lingual Transfer.",
+        "Start": "The successful adaptation of multilingual language models (LMs) to a specific language-task pair critically depends",
+        "Length": 175
+    },
+    {
+        "Index": 42,
+        "Title": "ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions.",
+        "Start": "We present ABEX, a novel and effective generative data augmentation methodology for low-resource Natural Language",
+        "Length": 191
+    },
+    {
+        "Index": 43,
+        "Title": "The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants.",
+        "Start": "We present Belebele, a multiple-choice machine reading comprehension (MRC) dataset spanning 122 language variants. Significantly",
+        "Length": 163
+    },
+    {
+        "Index": 44,
+        "Title": "Learn from Failure: Fine-tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving.",
+        "Start": "Recent advances in Automated Theorem Proving have shown the effectiveness of leveraging a (large) language",
+        "Length": 178
+    },
+    {
+        "Index": 45,
+        "Title": "Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach.",
+        "Start": "In this paper, we primarily address the issue of dialogue-form context query within the interactive",
+        "Length": 156
+    },
+    {
+        "Index": 46,
+        "Title": "IMBUE: Improving Interpersonal Effectiveness through Simulation and Just-in-time Feedback with Human-Language Model Interaction.",
+        "Start": "Navigating certain communication situations can be challenging due to individuals’ lack of skills and the",
+        "Length": 211
+    },
+    {
+        "Index": 47,
+        "Title": "Token-wise Influential Training Data Retrieval for Large Language Models.",
+        "Start": "Given a Large Language Model (LLM) generation, how can we identify which training data led",
+        "Length": 110
+    },
+    {
+        "Index": 48,
+        "Title": "Tree-of-Counterfactual Prompting for Zero-Shot Stance Detection.",
+        "Start": "Stance detection enables the inference of attitudes from human communications. Automatic stance identification was mostly",
+        "Length": 108
+    },
+    {
+        "Index": 49,
+        "Title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks.",
+        "Start": "Autonomous agents capable of planning, reasoning, and executing actions on the web offer a promising",
+        "Length": 193
+    },
+    {
+        "Index": 50,
+        "Title": "FineSurE: Fine-grained Summarization Evaluation using LLMs.",
+        "Start": "Automated evaluation is crucial for streamlining text summarization benchmarking and model development, given the costly",
+        "Length": 151
+    },
+    {
+        "Index": 51,
+        "Title": "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback.",
+        "Start": "Recent advancements in large language models have influenced the development of video large multimodal models",
+        "Length": 180
+    },
+    {
+        "Index": 52,
+        "Title": "Prompt Refinement with Image Pivot for Text-to-Image Generation.",
+        "Start": "For text-to-image generation, automatically refining user-provided natural language prompts into the keyword-enriched prompts favored by",
+        "Length": 144
+    },
+    {
+        "Index": 53,
+        "Title": "Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation.",
+        "Start": "In response to the limitations of manual ad creation, significant research has been conducted in",
+        "Length": 113
+    },
+    {
+        "Index": 54,
+        "Title": "AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation.",
+        "Start": "Abstraction ability is crucial in human intelligence, which can also benefit various tasks in NLP",
+        "Length": 126
+    },
+    {
+        "Index": 55,
+        "Title": "Reflect-RL: Two-Player Online RL Fine-Tuning for LMs.",
+        "Start": "As language models (LMs) demonstrate their capabilities in various fields, their application to tasks requiring",
+        "Length": 183
+    },
+    {
+        "Index": 56,
+        "Title": "Can ChatGPT's Performance be Improved on Verb Metaphor Detection Tasks? Bootstrapping and Combining Tacit Knowledge.",
+        "Start": "Metaphors detection, as an important task in the field of NLP, has been receiving sustained",
+        "Length": 186
+    },
+    {
+        "Index": 57,
+        "Title": "Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning.",
+        "Start": "The surge in Large Language Models (LLMs) has revolutionized natural language processing, but fine-tuning them",
+        "Length": 134
+    },
+    {
+        "Index": 58,
+        "Title": "An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation.",
+        "Start": "Retrieval-augmented generation integrates the capabilities of large language models with relevant information retrieved from an",
+        "Length": 150
+    },
+    {
+        "Index": 59,
+        "Title": "RORA: Robust Free-Text Rationale Evaluation.",
+        "Start": "Free-text rationales play a pivotal role in explainable NLP, bridging the knowledge and reasoning gaps",
+        "Length": 164
+    },
+    {
+        "Index": 60,
+        "Title": "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents.",
+        "Start": "Current language model-driven agents often lack mechanisms for effective user participation, which is crucial given",
+        "Length": 161
+    },
+    {
+        "Index": 61,
+        "Title": "InstructProtein: Aligning Human and Protein Language via Knowledge Instruction.",
+        "Start": "Large Language Models (LLMs) have revolutionized the field of natural language processing, but they fall",
+        "Length": 187
+    },
+    {
+        "Index": 62,
+        "Title": "ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models.",
+        "Start": "In this position paper, we argue that human evaluation of generative large language models (LLMs)",
+        "Length": 151
+    },
+    {
+        "Index": 63,
+        "Title": "Linguistically Conditioned Semantic Textual Similarity.",
+        "Start": "Semantic textual similarity (STS) is a fundamental NLP task that measures the semantic similarity between",
+        "Length": 224
+    },
+    {
+        "Index": 64,
+        "Title": "Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future.",
+        "Start": "Reasoning, a fundamental cognitive process integral to human intelligence, has garnered substantial interest within artificial",
+        "Length": 102
+    },
+    {
+        "Index": 65,
+        "Title": "TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models.",
+        "Start": "Grasping the concept of time is a fundamental facet of human cognition, indispensable for truly",
+        "Length": 152
+    },
+    {
+        "Index": 66,
+        "Title": "BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering.",
+        "Start": "Large language models (LLMs) have demonstrated strong reasoning capabilities.Nevertheless, they still suffer from factual errors",
+        "Length": 148
+    },
+    {
+        "Index": 67,
+        "Title": "ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base.",
+        "Start": "Analogical reasoning is a fundamental cognitive ability of humans. However, current language models (LMs) still",
+        "Length": 148
+    },
+    {
+        "Index": 68,
+        "Title": "TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation.",
+        "Start": "A practical dialogue system requires the capacity for ongoing skill acquisition and adaptability to new",
+        "Length": 155
+    },
+    {
+        "Index": 69,
+        "Title": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models.",
+        "Start": "In the era of large language models, Mixture-of-Experts (MoE) is a promising architecture for managing",
+        "Length": 187
+    },
+    {
+        "Index": 70,
+        "Title": "Grounding Language Model with Chunking-Free In-Context Retrieval.",
+        "Start": "This paper presents a novel Chunking-Free In-Context (CFIC) retrieval approach, specifically tailored for Retrieval-Augmented Generation",
+        "Length": 225
+    },
+    {
+        "Index": 71,
+        "Title": "Advancing Abductive Reasoning in Knowledge Graphs through Complex Logical Hypothesis Generation.",
+        "Start": "Abductive reasoning is the process of making educated guesses to provide explanations for observations. Although",
+        "Length": 170
+    },
+    {
+        "Index": 72,
+        "Title": "Active Prompting with Chain-of-Thought for Large Language Models.",
+        "Start": "The increasing scale of large language models (LLMs) brings emergent abilities to various complex tasks",
+        "Length": 204
+    },
+    {
+        "Index": 73,
+        "Title": "EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs.",
+        "Start": "We present EasyGen, an efficient model designed to enhance multimodal understanding and generation by harnessing",
+        "Length": 119
+    },
+    {
+        "Index": 74,
+        "Title": "Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search.",
+        "Start": "In code search, the Generation-Augmented Retrieval (GAR) framework, which generates exemplar code snippets to augment",
+        "Length": 207
+    },
+    {
+        "Index": 75,
+        "Title": "A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications.",
+        "Start": "Historical linguists have identified multiple forms of lexical semantic change. We present a three-dimensional framework",
+        "Length": 141
+    },
+    {
+        "Index": 76,
+        "Title": "Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal.",
+        "Start": "Large language models (LLMs) suffer from catastrophic forgetting during continual learning. Conventional rehearsal-based methods rely",
+        "Length": 151
+    },
+    {
+        "Index": 77,
+        "Title": "Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency.",
+        "Start": "Large language models (LLMs) have exhibited remarkable ability in code generation. However, generating the correct",
+        "Length": 165
+    },
+    {
+        "Index": 78,
+        "Title": "Citation-Enhanced Generation for LLM-based Chatbots.",
+        "Start": "Large language models (LLMs) exhibit powerful general intelligence across diverse scenarios, including their integration into",
+        "Length": 192
+    },
+    {
+        "Index": 79,
+        "Title": "Transitive Consistency Constrained Learning for Entity-to-Entity Stance Detection.",
+        "Start": "Entity-to-entity stance detection identifies the stance between a pair of entities with a directed link",
+        "Length": 178
+    },
+    {
+        "Index": 80,
+        "Title": "Feature-Adaptive and Data-Scalable In-Context Learning.",
+        "Start": "In-context learning (ICL), which promotes inference with several demonstrations, has become a widespread paradigm to",
+        "Length": 203
+    },
+    {
+        "Index": 81,
+        "Title": "Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games.",
+        "Start": "Large language models (LLMs) are effective at answering questions that are clearly asked. However, when",
+        "Length": 228
+    },
+    {
+        "Index": 82,
+        "Title": "WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.",
+        "Start": "To mitigate the potential misuse of large language models (LLMs), recent research has developed watermarking",
+        "Length": 175
+    },
+    {
+        "Index": 83,
+        "Title": "Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models.",
+        "Start": "Syntactic Transformer language models aim to achieve better generalization through simultaneously modeling syntax trees and",
+        "Length": 126
+    },
+    {
+        "Index": 84,
+        "Title": "A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation.",
+        "Start": "Simultaneous translation models play a crucial role in facilitating communication. However, existing research primarily focuses",
+        "Length": 150
+    },
+    {
+        "Index": 85,
+        "Title": "Probing Language Models for Pre-training Data Detection.",
+        "Start": "Large Language Models (LLMs) have shown their impressive capabilities, while also raising concerns about the",
+        "Length": 143
+    },
+    {
+        "Index": 86,
+        "Title": "Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding.",
+        "Start": "The digital landscape is rapidly evolving with an ever-increasing volume of online news, emphasizing the",
+        "Length": 146
+    },
+    {
+        "Index": 87,
+        "Title": "IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation.",
+        "Start": "Large language models have demonstrated their capabilities in storyline creation and human-like character role-playing. Current",
+        "Length": 172
+    },
+    {
+        "Index": 88,
+        "Title": "Language Model Adaption for Reinforcement Learning with Natural Language Action Space.",
+        "Start": "Reinforcement learning with natural language action space often suffers from the curse of dimensionality due",
+        "Length": 153
+    },
+    {
+        "Index": 89,
+        "Title": "Evaluating Intention Detection Capability of Large Language Models in Persuasive Dialogues.",
+        "Start": "We investigate intention detection in persuasive multi-turn dialogs employing the largest available Large Language Models",
+        "Length": 132
+    },
+    {
+        "Index": 90,
+        "Title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression.",
+        "Start": "In long context scenarios, large language models (LLMs) face three main challenges: higher computational cost,",
+        "Length": 138
+    },
+    {
+        "Index": 91,
+        "Title": "Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model.",
+        "Start": "Persuasive dialogue requires multi-turn following and planning abilities to achieve the goal of persuading users,",
+        "Length": 152
+    },
+    {
+        "Index": 92,
+        "Title": "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy.",
+        "Start": "Large Language Models (LLMs) can play a vital role in psychotherapy by adeptly handling the",
+        "Length": 177
+    },
+    {
+        "Index": 93,
+        "Title": "Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition.",
+        "Start": "The development of multimodal models has significantly advanced multimodal sentiment analysis and emotion recognition. However,",
+        "Length": 140
+    },
+    {
+        "Index": 94,
+        "Title": "An Effective Pronunciation Assessment Approach Leveraging Hierarchical Transformers and Pre-training Strategies.",
+        "Start": "Automatic pronunciation assessment (APA) manages to quantify a second language (L2) learner’s pronunciation proficiency in",
+        "Length": 163
+    },
+    {
+        "Index": 95,
+        "Title": "Detection-Correction Structure via General Language Model for Grammatical Error Correction.",
+        "Start": "Grammatical error correction (GEC) is a task dedicated to rectifying texts with minimal edits, which",
+        "Length": 146
+    },
+    {
+        "Index": 96,
+        "Title": "Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer.",
+        "Start": "While recent advancements in speech language models have achieved significant progress, they face remarkable challenges",
+        "Length": 165
+    },
+    {
+        "Index": 97,
+        "Title": "Selene: Pioneering Automated Proof in Software Verification.",
+        "Start": "Ensuring correctness is a pivotal aspect of software engineering. Among the various strategies available, software",
+        "Length": 123
+    },
+    {
+        "Index": 98,
+        "Title": "Dissecting Human and LLM Preferences.",
+        "Start": "As a relative quality comparison of model responses, human and Large Language Model (LLM) preferences",
+        "Length": 211
+    },
+    {
+        "Index": 99,
+        "Title": "UniCoder: Scaling Code Large Language Model via Universal Code.",
+        "Start": "Intermediate reasoning or acting steps have successfully improved large language models (LLMs) for handling various",
+        "Length": 198
+    },
+    {
+        "Index": 100,
+        "Title": "AoE: Angle-optimized Embeddings for Semantic Textual Similarity.",
+        "Start": "Text embedding is pivotal in semantic textual similarity (STS) tasks, which are crucial components in",
+        "Length": 136
+    },
+    {
+        "Index": 101,
+        "Title": "InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews.",
+        "Start": "Role-playing agents (RPAs), powered by large language models, have emerged as a flourishing field of",
+        "Length": 137
+    },
+    {
+        "Index": 102,
+        "Title": "Does DetectGPT Fully Utilize Perturbation? Bridging Selective Perturbation to Fine-tuned Contrastive Learning Detector would be Better.",
+        "Start": "The burgeoning generative capabilities of large language models (LLMs) have raised growing concerns about abuse,",
+        "Length": 123
+    },
+    {
+        "Index": 103,
+        "Title": "AFaCTA: Assisting the Annotation of Factual Claim Detection with Reliable LLM Annotators.",
+        "Start": "With the rise of generative AI, automated fact-checking methods to combat misinformation are becoming more",
+        "Length": 172
+    },
+    {
+        "Index": 104,
+        "Title": "Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering.",
+        "Start": "Advances towards more faithful and traceable answers of Large Language Models (LLMs) are crucial for",
+        "Length": 155
+    },
+    {
+        "Index": 105,
+        "Title": "LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin.",
+        "Start": "Supervised fine-tuning (SFT) is a crucial step for large language models (LLMs), enabling them to",
+        "Length": 165
+    },
+    {
+        "Index": 106,
+        "Title": "Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation.",
+        "Start": "Despite showing impressive abilities, large language models (LLMs) often struggle with factual inaccuracies, i.e., ”hallucinations”,",
+        "Length": 145
+    },
+    {
+        "Index": 107,
+        "Title": "M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions.",
+        "Start": "Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by retrieving relevant memories from an external",
+        "Length": 129
+    },
+    {
+        "Index": 108,
+        "Title": "AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension.",
+        "Start": "Recently, instruction-following audio-language models have received broad attention for human-audio interaction. However, the absence of",
+        "Length": 249
+    },
+    {
+        "Index": 109,
+        "Title": "Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies.",
+        "Start": "Ten years ago a single metric, BLEU, governed progress in machine translation research. For better",
+        "Length": 180
+    },
+    {
+        "Index": 110,
+        "Title": "ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models.",
+        "Start": "Large Language Models (LLMs) are transforming diverse fields and gaining increasing influence as human proxies.",
+        "Length": 124
+    },
+    {
+        "Index": 111,
+        "Title": "DM-BLI: Dynamic Multiple Subspaces Alignment for Unsupervised Bilingual Lexicon Induction.",
+        "Start": "Unsupervised bilingual lexicon induction (BLI) task aims to find word translations between languages and has",
+        "Length": 156
+    },
+    {
+        "Index": 112,
+        "Title": "SparseFit: Few-shot Prompting with Sparse Fine-tuning for Jointly Generating Predictions and Natural Language Explanations.",
+        "Start": "Models that generate natural language explanations (NLEs) for their predictions have recently gained increasing interest.",
+        "Length": 172
+    },
+    {
+        "Index": 113,
+        "Title": "Handling Ambiguity in Emotion: From Out-of-Domain Detection to Distribution Estimation.",
+        "Start": "The subjective perception of emotion leads to inconsistent labels from human annotators. Typically, utterances lacking",
+        "Length": 188
+    },
+    {
+        "Index": 114,
+        "Title": "REANO: Optimising Retrieval-Augmented Reader Models through Knowledge Graph Generation.",
+        "Start": "Open domain question answering (ODQA) aims to answer questions with knowledge from an external corpus.",
+        "Length": 181
+    },
+    {
+        "Index": 115,
+        "Title": "Learning Disentangled Semantic Spaces of Explanations via Invertible Neural Networks.",
+        "Start": "Disentangled latent spaces usually have better semantic separability and geometrical properties, which leads to better",
+        "Length": 165
+    },
+    {
+        "Index": 116,
+        "Title": "MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation.",
+        "Start": "A story premise succinctly defines a story’s main idea, foundation, and trajectory. It serves as",
+        "Length": 176
+    },
+    {
+        "Index": 117,
+        "Title": "Open-Set Semi-Supervised Text Classification via Adversarial Disagreement Maximization.",
+        "Start": "Open-Set Semi-Supervised Text Classification (OSTC) aims to train a classification model on a limited set",
+        "Length": 116
+    },
+    {
+        "Index": 118,
+        "Title": "ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages.",
+        "Start": "Tool learning is widely acknowledged as a foundational approach or deploying large language models (LLMs)",
+        "Length": 158
+    },
+    {
+        "Index": 119,
+        "Title": "A synthetic data approach for domain generalization of NLI models.",
+        "Start": "Natural Language Inference (NLI) remains an important benchmark task for LLMs. NLI datasets are a",
+        "Length": 217
+    },
+    {
+        "Index": 120,
+        "Title": "Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild.",
+        "Start": "The principle of continual relation extraction (CRE) involves adapting to emerging novel relations while preserving",
+        "Length": 149
+    },
+    {
+        "Index": 121,
+        "Title": "LRQuant: Learnable and Robust Post-Training Quantization for Large Language Models.",
+        "Start": "Post-training quantization (PTQ) for large language models (LLMs) significantly accelerates model inference and relieves memory",
+        "Length": 208
+    },
+    {
+        "Index": 122,
+        "Title": "VariErr NLI: Separating Annotation Error from Human Label Variation.",
+        "Start": "Human label variation arises when annotators assign different labels to the same item for valid",
+        "Length": 196
+    },
+    {
+        "Index": 123,
+        "Title": "Benchmarking Knowledge Boundary for Large Language Models: A Different Perspective on Model Evaluation.",
+        "Start": "In recent years, substantial advancements have been made in the development of large language models,",
+        "Length": 161
+    },
+    {
+        "Index": 124,
+        "Title": "ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval.",
+        "Start": "We propose ListT5, a novel reranking approach based on Fusion-in-Decoder (FiD) that handles multiple candidate",
+        "Length": 113
+    },
+    {
+        "Index": 125,
+        "Title": "Exploring the Potential of Large Language Models in Computational Argumentation.",
+        "Start": "Computational argumentation has become an essential tool in various domains, including law, public policy, and",
+        "Length": 184
+    },
+    {
+        "Index": 126,
+        "Title": "TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Semantic Tasks.",
+        "Start": "In this paper, we explore the capabilities of LLMs in capturing lexical-semantic knowledge from WordNet",
+        "Length": 122
+    },
+    {
+        "Index": 127,
+        "Title": "CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.",
+        "Start": "The sequential process of conceptualization and instantiation is essential to generalizable commonsense reasoning as it",
+        "Length": 175
+    },
+    {
+        "Index": 128,
+        "Title": "MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter.",
+        "Start": "Parameter-Efficient Fine-tuning (PEFT) facilitates the fine-tuning of Large Language Models (LLMs) under limited resources. However,",
+        "Length": 183
+    },
+    {
+        "Index": 129,
+        "Title": "Surgical Feature-Space Decomposition of LLMs: Why, When and How?",
+        "Start": "Low-rank approximations, of the weight and feature space can enhance the performance of deep learning",
+        "Length": 155
+    },
+    {
+        "Index": 130,
+        "Title": "Reasoning in Flux: Enhancing Large Language Models Reasoning through Uncertainty-aware Adaptive Guidance.",
+        "Start": "Machine reasoning, which involves solving complex problems through step-by-step deduction and analysis, is a crucial",
+        "Length": 179
+    },
+    {
+        "Index": 131,
+        "Title": "Modality-Aware Integration with Large Language Models for Knowledge-Based Visual Question Answering.",
+        "Start": "Knowledge-based visual question answering (KVQA) has been extensively studied to answer visual questions with external",
+        "Length": 174
+    },
+    {
+        "Index": 132,
+        "Title": "Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression.",
+        "Start": "Key-value (KV) caching is an important technique to accelerate the inference of large language models",
+        "Length": 191
+    },
+    {
+        "Index": 133,
+        "Title": "VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models.",
+        "Start": "Recent approaches in domain-specific named entity recognition (NER), such as biomedical NER, have shown remarkable",
+        "Length": 155
+    },
+    {
+        "Index": 134,
+        "Title": "Making Long-Context Language Models Better Multi-Hop Reasoners.",
+        "Start": "Recent advancements in long-context modeling have enhanced language models (LMs) for complex tasks across multiple",
+        "Length": 123
+    },
+    {
+        "Index": 135,
+        "Title": "TransliCo: A Contrastive Learning Framework to Address the Script Barrier in Multilingual Pretrained Language Models.",
+        "Start": "The world’s more than 7000 languages are written in at least 293 scripts. Due to",
+        "Length": 210
+    },
+    {
+        "Index": 136,
+        "Title": "Extreme Miscalibration and the Illusion of Adversarial Robustness.",
+        "Start": "Deep learning-based Natural Language Processing (NLP) models are vulnerable to adversarial attacks, where small perturbations",
+        "Length": 142
+    },
+    {
+        "Index": 137,
+        "Title": "HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation.",
+        "Start": "The Matthew effect is a notorious issue in Recommender Systems (RSs), i.e., the rich get",
+        "Length": 156
+    },
+    {
+        "Index": 138,
+        "Title": "Co-training for Low Resource Scientific Natural Language Inference.",
+        "Start": "Scientific Natural Language Inference (NLI) is the task of predicting the semantic relation between a",
+        "Length": 193
+    },
+    {
+        "Index": 139,
+        "Title": "RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models.",
+        "Start": "Reinforcement Learning with Human Feedback (RLHF) is a methodology designed to align Large Language Models",
+        "Length": 168
+    },
+    {
+        "Index": 140,
+        "Title": "Time is Encoded in the Weights of Finetuned Language Models.",
+        "Start": "We present time vectors, a simple tool to customize language models to new time periods.",
+        "Length": 137
+    },
+    {
+        "Index": 141,
+        "Title": "Long-Context Language Modeling with Parallel Context Encoding.",
+        "Start": "Extending large language models (LLMs) to process longer inputs is crucial for numerous applications. However,",
+        "Length": 175
+    },
+    {
+        "Index": 142,
+        "Title": "SirLLM: Streaming Infinite Retentive LLM.",
+        "Start": "As Large Language Models (LLMs) become increasingly prevalent in various domains, their ability to process",
+        "Length": 231
+    },
+    {
+        "Index": 143,
+        "Title": "IMO: Greedy Layer-Wise Sparse Representation Learning for Out-of-Distribution Text Classification with Pre-trained Models.",
+        "Start": "Machine learning models have made incredible progress, but they still struggle when applied to examples",
+        "Length": 123
+    },
+    {
+        "Index": 144,
+        "Title": "Generative Pretrained Structured Transformers: Unsupervised Syntactic Language Models at Scale.",
+        "Start": "A syntactic language model (SLM) incrementally generates a sentence with its syntactic tree in a",
+        "Length": 160
+    },
+    {
+        "Index": 145,
+        "Title": "MELA: Multilingual Evaluation of Linguistic Acceptability.",
+        "Start": "In this work, we present the largest benchmark to date on linguistic acceptability: Multilingual Evaluation",
+        "Length": 133
+    },
+    {
+        "Index": 146,
+        "Title": "CopyNE: Better Contextual ASR by Copying Named Entities.",
+        "Start": "End-to-end automatic speech recognition (ASR) systems have made significant progress in general scenarios. However, it",
+        "Length": 140
+    },
+    {
+        "Index": 147,
+        "Title": "Is Table Retrieval a Solved Problem? Exploring Join-Aware Multi-Table Retrieval.",
+        "Start": "Retrieving relevant tables containing the necessary information to accurately answer a given question over tables",
+        "Length": 179
+    },
+    {
+        "Index": 148,
+        "Title": "Generalizing Conversational Dense Retrieval via LLM-Cognition Data Augmentation.",
+        "Start": "Conversational search utilizes muli-turn natural language contexts to retrieve relevant passages. Existing conversational dense retrieval",
+        "Length": 178
+    },
+    {
+        "Index": 149,
+        "Title": "ItD: Large Language Models Can Teach Themselves Induction through Deduction.",
+        "Start": "Although Large Language Models (LLMs) are showing impressive performance on a wide range of Natural",
+        "Length": 181
+    },
+    {
+        "Index": 150,
+        "Title": "MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs.",
+        "Start": "Large language models (LLMs) have exhibited great potential in mathematical reasoning. However, there remains a",
+        "Length": 157
+    },
+    {
+        "Index": 151,
+        "Title": "Rethinking Task-Oriented Dialogue Systems: From Complex Modularity to Zero-Shot Autonomous Agent.",
+        "Start": "Task-oriented dialogue (TOD) systems are predominantly designed to be composed of several functional modules (e.g.",
+        "Length": 190
+    },
+    {
+        "Index": 152,
+        "Title": "On Context Utilization in Summarization with Large Language Models.",
+        "Start": "Large language models (LLMs) excel in abstractive summarization tasks, delivering fluent and pertinent summaries. Recent",
+        "Length": 164
+    },
+    {
+        "Index": 153,
+        "Title": "INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning.",
+        "Start": "Large language models (LLMs) have demonstrated impressive capabilities in various natural language processing tasks. Despite",
+        "Length": 181
+    },
+    {
+        "Index": 154,
+        "Title": "Enhancing In-Context Learning via Implicit Demonstration Augmentation.",
+        "Start": "The emergence of in-context learning (ICL) enables large pre-trained language models (PLMs) to make predictions",
+        "Length": 148
+    },
+    {
+        "Index": 155,
+        "Title": "PRoLoRA: Partial Rotation Empowers More Parameter-Efficient LoRA.",
+        "Start": "With the rapid scaling of large language models (LLMs), serving numerouslow-rank adaptations (LoRAs) concurrently has",
+        "Length": 147
+    },
+    {
+        "Index": 156,
+        "Title": "Improving Event Definition Following For Zero-Shot Event Detection.",
+        "Start": "Existing approaches on zero-shot event detection usually train models on datasets annotated with known event",
+        "Length": 190
+    },
+    {
+        "Index": 157,
+        "Title": "Through the MUD: A Multi-Defendant Charge Prediction Benchmark with Linked Crime Elements.",
+        "Start": "The current charge prediction datasets mostly focus on single-defendant criminal cases.However, real-world criminal cases usually",
+        "Length": 136
+    },
+    {
+        "Index": 158,
+        "Title": "Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion of Session Embedding.",
+        "Start": "Conversational dense retrieval has shown to be effective in conversational search. However, a major limitation",
+        "Length": 162
+    },
+    {
+        "Index": 159,
+        "Title": "Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks.",
+        "Start": "The widespread use of large language models (LLMs) is increasing the demand for methods that",
+        "Length": 128
+    },
+    {
+        "Index": 160,
+        "Title": "Training Language Models to Generate Text with Citations via Fine-grained Rewards.",
+        "Start": "While recent Large Language Models (LLMs) have proven useful in answering user queries, they are",
+        "Length": 164
+    },
+    {
+        "Index": 161,
+        "Title": "Hypergraph based Understanding for Document Semantic Entity Recognition.",
+        "Start": "Semantic entity recognition is an important task in the field of visually-rich document understanding. It",
+        "Length": 164
+    },
+    {
+        "Index": 162,
+        "Title": "GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers.",
+        "Start": "Large language models (LLMs) have achieved impressive performance across various mathematical reasoning benchmarks. However, there",
+        "Length": 182
+    },
+    {
+        "Index": 163,
+        "Title": "Synergetic Event Understanding: A Collaborative Approach to Cross-Document Event Coreference Resolution with Large Language Models.",
+        "Start": "Cross-document event coreference resolution (CDECR) involves clustering event mentions across multiple documents that refer to",
+        "Length": 169
+    },
+    {
+        "Index": 164,
+        "Title": "AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning.",
+        "Start": "Language agents have achieved considerable performance on various complex question-answering tasks by planning with external",
+        "Length": 166
+    },
+    {
+        "Index": 165,
+        "Title": "ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks.",
+        "Start": "This study investigates the challenges posed by the dynamic nature of legal multi-label text classification",
+        "Length": 135
+    },
+    {
+        "Index": 166,
+        "Title": "Virtual Compiler Is All You Need For Assembly Code Search.",
+        "Start": "Assembly code search is vital for reducing the burden on reverse engineers, allowing them to",
+        "Length": 155
+    },
+    {
+        "Index": 167,
+        "Title": "MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning.",
+        "Start": "Parameter-efficient fine-tuning (PEFT) is a popular method for tailoring pre-trained large language models (LLMs), especially",
+        "Length": 179
+    },
+    {
+        "Index": 168,
+        "Title": "Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning.",
+        "Start": "Large language models (LLMs) have demonstrated striking reasoning capability. Recent works have shown the benefits",
+        "Length": 227
+    },
+    {
+        "Index": 169,
+        "Title": "An Iterative Associative Memory Model for Empathetic Response Generation.",
+        "Start": "Empathetic response generation aims to comprehend the cognitive and emotional states in dialogue utterances and",
+        "Length": 149
+    },
+    {
+        "Index": 170,
+        "Title": "Detoxifying Large Language Models via Knowledge Editing.",
+        "Start": "This paper investigates using knowledge editing techniques to detoxify Large Language Models (LLMs). We construct",
+        "Length": 158
+    },
+    {
+        "Index": 171,
+        "Title": "LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding.",
+        "Start": "Although large language models (LLMs) demonstrate impressive performance for many language tasks, most of them",
+        "Length": 227
+    },
+    {
+        "Index": 172,
+        "Title": "Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models.",
+        "Start": "Teachers are important to imparting knowledge and guiding learners, and the role of large language",
+        "Length": 185
+    },
+    {
+        "Index": 173,
+        "Title": "UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages.",
+        "Start": "In this paper, we introduce UniBridge (Cross-Lingual Transfer Learning with Optimized Embeddings and Vocabulary), a",
+        "Length": 136
+    },
+    {
+        "Index": 174,
+        "Title": "VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval.",
+        "Start": "Multi-modal retrieval becomes increasingly popular in practice. However, the existing retrievers are mostly text-oriented, which",
+        "Length": 171
+    },
+    {
+        "Index": 175,
+        "Title": "Black-Box Prompt Optimization: Aligning Large Language Models without Model Training.",
+        "Start": "Large language models (LLMs) have shown impressive success in various applications. However, these models are",
+        "Length": 196
+    },
+    {
+        "Index": 176,
+        "Title": "Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark.",
+        "Start": "This paper introduces the Open Ko-LLM Leaderboard and the Ko-H5 Benchmark as vital tools for",
+        "Length": 108
+    },
+    {
+        "Index": 177,
+        "Title": "Unified Hallucination Detection for Multimodal Large Language Models.",
+        "Start": "Despite significant strides in multimodal tasks, Multimodal Large Language Models (MLLMs) are plagued by the",
+        "Length": 158
+    },
+    {
+        "Index": 178,
+        "Title": "Empowering Character-level Text Infilling by Eliminating Sub-Tokens.",
+        "Start": "In infilling tasks, sub-tokens, representing instances where a complete token is segmented into two parts,",
+        "Length": 154
+    },
+    {
+        "Index": 179,
+        "Title": "Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models.",
+        "Start": "Retrieval augmentation is a promising approach to handle long-context language modeling. However, the existing retrieval",
+        "Length": 199
+    },
+    {
+        "Index": 180,
+        "Title": "GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?",
+        "Start": "In the real world, knowledge is constantly evolving, which can render existing knowledge-based datasets outdated.",
+        "Length": 127
+    },
+    {
+        "Index": 181,
+        "Title": "Attribute First, then Generate: Locally-attributable Grounded Text Generation.",
+        "Start": "Recent efforts to address hallucinations in Large Language Models (LLMs) have focused on attributed text",
+        "Length": 164
+    },
+    {
+        "Index": 182,
+        "Title": "T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text.",
+        "Start": "In this work, we propose a two-stage sign language production (SLP) paradigm that first encodes",
+        "Length": 183
+    },
+    {
+        "Index": 183,
+        "Title": "OceanGPT: A Large Language Model for Ocean Science Tasks.",
+        "Start": "Ocean science, which delves into the oceans that are reservoirs of life and biodiversity, is",
+        "Length": 188
+    },
+    {
+        "Index": 184,
+        "Title": "Beyond Memorization: The Challenge of Random Memory Access in Language Models.",
+        "Start": "Recent developments in Language Models (LMs) have shown their effectiveness in NLP tasks, particularly in",
+        "Length": 138
+    },
+    {
+        "Index": 185,
+        "Title": "BIPED: Pedagogically Informed Tutoring System for ESL Education.",
+        "Start": "Large Language Models (LLMs) have a great potential to serve as readily available and cost-efficient",
+        "Length": 156
+    },
+    {
+        "Index": 186,
+        "Title": "Timeline-based Sentence Decomposition with In Context Learning for Temporal Fact Extraction.",
+        "Start": "Facts extraction is pivotal for constructing knowledge graphs. Recently, the increasing demand for temporal facts",
+        "Length": 158
+    },
+    {
+        "Index": 187,
+        "Title": "Collaboration or Corporate Capture? Quantifying NLP's Reliance on Industry Artifacts and Contributions.",
+        "Start": "Impressive performance of pre-trained models has garnered public attention and made news headlines in recent",
+        "Length": 141
+    },
+    {
+        "Index": 188,
+        "Title": "Prompt Expansion for Adaptive Text-to-Image Generation.",
+        "Start": "Text-to-image generation models are powerful but difficult to use. Users craft specific prompts to get",
+        "Length": 118
+    },
+    {
+        "Index": 189,
+        "Title": "Progressively Modality Freezing for Multi-Modal Entity Alignment.",
+        "Start": "Multi-Modal Entity Alignment aims to discover identical entities across heterogeneous knowledge graphs. While recent studies",
+        "Length": 105
+    },
+    {
+        "Index": 190,
+        "Title": "Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval.",
+        "Start": "Dense retrieval calls for discriminative embeddings to represent the semantic relationship between query and document.",
+        "Length": 215
+    },
+    {
+        "Index": 191,
+        "Title": "Democratizing LLMs for Low-Resource Languages by Leveraging their English Dominant Abilities with Linguistically-Diverse Prompts.",
+        "Start": "Large language models (LLMs) are known to effectively perform tasks by simply observing few exemplars.",
+        "Length": 201
+    },
+    {
+        "Index": 192,
+        "Title": "Metaphor Understanding Challenge Dataset for LLMs.",
+        "Start": "Metaphors in natural language are a reflection of fundamental cognitive processes such as analogical reasoning",
+        "Length": 149
+    },
+    {
+        "Index": 193,
+        "Title": "A Multi-Task Embedder For Retrieval Augmented LLMs.",
+        "Start": "LLMs confront inherent limitations in terms of its knowledge, memory, and action. The retrieval augmentation",
+        "Length": 226
+    },
+    {
+        "Index": 194,
+        "Title": "Language Models Don't Learn the Physical Manifestation of Language.",
+        "Start": "We argue that language-only models don’t learn the physical manifestation of language. We present an",
+        "Length": 152
+    },
+    {
+        "Index": 195,
+        "Title": "What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection.",
+        "Start": "Social media bot detection has always been an arms race between advancements in machine learning",
+        "Length": 154
+    },
+    {
+        "Index": 196,
+        "Title": "Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives.",
+        "Start": "The reflection capacity of Large Language Model (LLM) has garnered extensive attention. A post-hoc prompting",
+        "Length": 167
+    },
+    {
+        "Index": 197,
+        "Title": "Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty.",
+        "Start": "As natural language becomes the default interface for human-AI interaction, there is a need for",
+        "Length": 162
+    },
+    {
+        "Index": 198,
+        "Title": "Unity in Diversity: Collaborative Pre-training Across Multimodal Medical Sources.",
+        "Start": "Although pre-training has become a prevalent approach for addressing various biomedical tasks, the current efficacy",
+        "Length": 143
+    },
+    {
+        "Index": 199,
+        "Title": "When Good and Reproducible Results are a Giant with Feet of Clay: The Importance of Software Quality in NLP.",
+        "Start": "Despite its crucial role in research experiments, code correctness is often presumed solely based on",
+        "Length": 156
+    },
+    {
+        "Index": 200,
+        "Title": "SBAAM! Eliminating Transcript Dependency in Automatic Subtitling.",
+        "Start": "Subtitling plays a crucial role in enhancing the accessibility of audiovisual content and encompasses three",
+        "Length": 130
+    },
+    {
+        "Index": 201,
+        "Title": "StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection.",
+        "Start": "Streaming speech-to-text translation (StreamST) is the task of automatically translating speech while incrementally receiving an",
+        "Length": 142
+    },
+    {
+        "Index": 202,
+        "Title": "ARL2: Aligning Retrievers with Black-box Large Language Models via Self-guided Adaptive Relevance Labeling.",
+        "Start": "Retrieval-augmented generation enhances large language models (LLMs) by incorporating relevant information from external knowledge sources.",
+        "Length": 132
+    },
+    {
+        "Index": 203,
+        "Title": "Crayon: Customized On-Device LLM via Instant Adapter Blending and Edge-Server Hybrid Inference.",
+        "Start": "The customization of large language models (LLMs) for user-specified tasks gets important. However, maintaining all",
+        "Length": 160
+    },
+    {
+        "Index": 204,
+        "Title": "FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model.",
+        "Start": "Most existing image captioning evaluation metrics focus on assigning a single numerical score to a",
+        "Length": 147
+    },
+    {
+        "Index": 205,
+        "Title": "MentalManip: A Dataset For Fine-grained Analysis of Mental Manipulation in Conversations.",
+        "Start": "Mental manipulation, a significant form of abuse in interpersonal conversations, presents a challenge to identify",
+        "Length": 173
+    },
+    {
+        "Index": 206,
+        "Title": "MPCoder: Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning.",
+        "Start": "Large Language Models (LLMs) have demonstrated great potential for assisting developers in their daily development.",
+        "Length": 140
+    },
+    {
+        "Index": 207,
+        "Title": "DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows.",
+        "Start": "Large language models (LLMs) have become a dominant and important tool for NLP researchers in",
+        "Length": 147
+    },
+    {
+        "Index": 208,
+        "Title": "Understanding and Addressing the Under-Translation Problem from the Perspective of Decoding Objective.",
+        "Start": "Neural Machine Translation (NMT) has made remarkable progress over the past years. However, under-translation and",
+        "Length": 149
+    },
+    {
+        "Index": 209,
+        "Title": "Identifying while Learning for Document Event Causality Identification.",
+        "Start": "Event Causality Identification (ECI) aims to detect whether there exists a causal relation between two",
+        "Length": 168
+    },
+    {
+        "Index": 210,
+        "Title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems.",
+        "Start": "Recent advancements have seen Large Language Models (LLMs) and Large Multimodal Models (LMMs) surpassing general",
+        "Length": 173
+    },
+    {
+        "Index": 211,
+        "Title": "Insert or Attach: Taxonomy Completion via Box Embedding.",
+        "Start": "Taxonomy completion, enriching existing taxonomies by inserting new concepts as parents or attaching them as",
+        "Length": 168
+    },
+    {
+        "Index": 212,
+        "Title": "Semiparametric Token-Sequence Co-Supervision.",
+        "Start": "In this work, we introduce a semiparametric token-sequence co-supervision training method. It trains a language",
+        "Length": 138
+    },
+    {
+        "Index": 213,
+        "Title": "Instruction Fusion: Advancing Prompt Evolution through Hybridization.",
+        "Start": "The fine-tuning of Large Language Models (LLMs) specialized in code generation has seen notable advancements",
+        "Length": 128
+    },
+    {
+        "Index": 214,
+        "Title": "TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation.",
+        "Start": "Despite remarkable advancements in emulating human-like behavior through Large Language Models (LLMs), current textual simulations",
+        "Length": 144
+    },
+    {
+        "Index": 215,
+        "Title": "Exploring Memorization in Fine-tuned Language Models.",
+        "Start": "Large language models (LLMs) have shown great capabilities in various tasks but also exhibited memorization",
+        "Length": 129
+    },
+    {
+        "Index": 216,
+        "Title": "Towards Real-world Scenario: Imbalanced New Intent Discovery.",
+        "Start": "New Intent Discovery (NID) aims at detecting known and previously undefined categories of user intent",
+        "Length": 195
+    },
+    {
+        "Index": 217,
+        "Title": "M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection.",
+        "Start": "The advent of Large Language Models (LLMs) has brought an unprecedented surge in machine-generated text",
+        "Length": 178
+    },
+    {
+        "Index": 218,
+        "Title": "Instruct Once, Chat Consistently in Multiple Rounds: An Efficient Tuning Framework for Dialogue.",
+        "Start": "Tuning language models for dialogue generation has been a prevalent paradigm for building capable dialogue",
+        "Length": 168
+    },
+    {
+        "Index": 219,
+        "Title": "SoftDedup: an Efficient Data Reweighting Method for Speeding Up Language Model Pre-training.",
+        "Start": "The effectiveness of large language models (LLMs) is often hindered by duplicated data in their",
+        "Length": 161
+    },
+    {
+        "Index": 220,
+        "Title": "Rule or Story, Which is a Better Commonsense Expression for Talking with Large Language Models?",
+        "Start": "Building machines with commonsense has been a longstanding challenge in NLP due to the reporting",
+        "Length": 174
+    },
+    {
+        "Index": 221,
+        "Title": "Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning.",
+        "Start": "While large language models (LLMs) have showcased remarkable prowess in various natural language processing tasks,",
+        "Length": 201
+    },
+    {
+        "Index": 222,
+        "Title": "CaMML: Context-Aware Multimodal Learner for Large Models.",
+        "Start": "In this work, we introduce Context-Aware MultiModal Learner (CaMML), for tuning large multimodal models (LMMs).",
+        "Length": 151
+    },
+    {
+        "Index": 223,
+        "Title": "MAVEN-ARG: Completing the Puzzle of All-in-One Event Understanding Dataset with Event Argument Annotation.",
+        "Start": "Understanding events in texts is a core objective of natural language understanding, which requires detecting",
+        "Length": 188
+    },
+    {
+        "Index": 224,
+        "Title": "NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes.",
+        "Start": "Complex reasoning ability is one of the most important features of Large Language Models (LLMs).",
+        "Length": 161
+    },
+    {
+        "Index": 225,
+        "Title": "Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models.",
+        "Start": "Text watermarking technology aims to tag and identify content produced by large language models (LLMs)",
+        "Length": 147
+    },
+    {
+        "Index": 226,
+        "Title": "Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors.",
+        "Start": "Realistic practice and tailored feedback are key processes for training peer counselors with clinical skills.",
+        "Length": 163
+    },
+    {
+        "Index": 227,
+        "Title": "In-context Mixing (ICM): Code-mixed Prompts for Multilingual LLMs.",
+        "Start": "We introduce a simple and effective prompting technique called in-context mixing (ICM) for effective in-context",
+        "Length": 142
+    },
+    {
+        "Index": 228,
+        "Title": "Respond in my Language: Mitigating Language Inconsistency in Response Generation based on Large Language Models.",
+        "Start": "Large Language Models (LLMs) show strong instruction understanding ability across multiple languages. However, they are",
+        "Length": 167
+    },
+    {
+        "Index": 229,
+        "Title": "Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries.",
+        "Start": "This study investigates the privacy risks associated with text embeddings, focusing on the scenario where",
+        "Length": 103
+    },
+    {
+        "Index": 230,
+        "Title": "Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding.",
+        "Start": "Recent strides in large language models (LLMs) have yielded remarkable performance, leveraging reinforcement learning from",
+        "Length": 142
+    },
+    {
+        "Index": 231,
+        "Title": "Intuitive or Dependent? Investigating LLMs' Behavior Style to Conflicting Prompts.",
+        "Start": "This study investigates the behaviors of Large Language Models (LLMs) when faced with conflicting prompts",
+        "Length": 195
+    },
+    {
+        "Index": 232,
+        "Title": "CoCA: Fusing Position Embedding with Collinear Constrained Attention in Transformers for Long Context Window Extending.",
+        "Start": "Self-attention and position embedding are two crucial modules in transformer-based Large Language Models (LLMs). However,",
+        "Length": 179
+    },
+    {
+        "Index": 233,
+        "Title": "InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification.",
+        "Start": "Text simplification aims to make technical texts more accessible to laypeople but often results in",
+        "Length": 166
+    },
+    {
+        "Index": 234,
+        "Title": "CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following.",
+        "Start": "With the advancement of language models (LMs), their exposure to private data is increasingly inevitable,",
+        "Length": 191
+    },
+    {
+        "Index": 235,
+        "Title": "DAPR: A Benchmark on Document-Aware Passage Retrieval.",
+        "Start": "The work of neural retrieval so far focuses on ranking short texts and is challenged",
+        "Length": 202
+    },
+    {
+        "Index": 236,
+        "Title": "Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-Choice Selectors.",
+        "Start": "Multiple-Choice Questions (MCQs) constitute a critical area of research in the study of Large Language",
+        "Length": 210
+    },
+    {
+        "Index": 237,
+        "Title": "SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph.",
+        "Start": "Knowledge graphs (KGs) play a pivotal role in knowledge-intensive tasks across specialized domains, where the",
+        "Length": 188
+    },
+    {
+        "Index": 238,
+        "Title": "Uncertainty-Guided Modal Rebalance for Hateful Memes Detection.",
+        "Start": "Hateful memes detection is a challenging multimodal understanding task that requires comprehensive learning of vision,",
+        "Length": 174
+    },
+    {
+        "Index": 239,
+        "Title": "Missci: Reconstructing Fallacies in Misrepresented Science.",
+        "Start": "Health-related misinformation on social networks can lead to poor decision-making and real-world dangers. Such misinformation",
+        "Length": 212
+    },
+    {
+        "Index": 240,
+        "Title": "Uncovering the Full Potential of Visual Grounding Methods in VQA.",
+        "Start": "Visual Grounding (VG) methods in Visual Question Answering (VQA) attempt to improve VQA performance by",
+        "Length": 133
+    },
+    {
+        "Index": 241,
+        "Title": "Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When and What to Retrieve for LLMs.",
+        "Start": "The integration of large language models (LLMs) and search engines represents a significant evolution in",
+        "Length": 187
+    },
+    {
+        "Index": 242,
+        "Title": "Favi-Score: A Measure for Favoritism in Automated Preference Ratings for Generative AI Evaluation.",
+        "Start": "Generative AI systems have become ubiquitous for all kinds of modalities, which makes the issue",
+        "Length": 200
+    },
+    {
+        "Index": 243,
+        "Title": "LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback.",
+        "Start": "Ensuring that online discussions are civil and productive is a major challenge for social media",
+        "Length": 188
+    },
+    {
+        "Index": 244,
+        "Title": "Graph Language Models.",
+        "Start": "While Language Models (LMs) are the workhorses of NLP, their interplay with structured knowledge graphs",
+        "Length": 161
+    },
+    {
+        "Index": 245,
+        "Title": "Analyzing Semantic Change through Lexical Replacements.",
+        "Start": "Modern language models are capable of contextualizing words based on their surrounding context. However, this",
+        "Length": 111
+    },
+    {
+        "Index": 246,
+        "Title": "Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.",
+        "Start": "Weakly supervised natural language video localization (WS-NLVL) aims to retrieve the moment corresponding to a",
+        "Length": 178
+    },
+    {
+        "Index": 247,
+        "Title": "Interpretability of Language Models via Task Spaces.",
+        "Start": "The usual way to interpret language models (LMs) is to test their performance on different",
+        "Length": 184
+    },
+    {
+        "Index": 248,
+        "Title": "Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types.",
+        "Start": "There is abundant evidence of the fact that the way words change their meaning can",
+        "Length": 119
+    },
+    {
+        "Index": 249,
+        "Title": "Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators.",
+        "Start": "Large Language Models (LLMs) tend to be unreliable on fact-based answers.To address this problem, NLP",
+        "Length": 161
+    },
+    {
+        "Index": 250,
+        "Title": "StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback.",
+        "Start": "The advancement of large language models (LLMs) has significantly propelled the field of code generation.",
+        "Length": 183
+    },
+    {
+        "Index": 251,
+        "Title": "One-Shot Learning as Instruction Data Prospector for Large Language Models.",
+        "Start": "Contemporary practices in instruction tuning often hinge on enlarging data scaling without a clear strategy",
+        "Length": 143
+    },
+    {
+        "Index": 252,
+        "Title": "Navigating the OverKill in Large Language Models.",
+        "Start": "Large language models are meticulously aligned to be both helpful and harmless. However, recent research",
+        "Length": 162
+    },
+    {
+        "Index": 253,
+        "Title": "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains.",
+        "Start": "Prompting language models to provide step-by-step answers (e.g., “Chain-of-Thought”) is the prominent approach for complex",
+        "Length": 137
+    },
+    {
+        "Index": 254,
+        "Title": "Re3: A Holistic Framework and Dataset for Modeling Collaborative Document Revision.",
+        "Start": "Collaborative review and revision of textual documents is the core of knowledge work and a",
+        "Length": 145
+    },
+    {
+        "Index": 255,
+        "Title": "NextLevelBERT: Masked Language Modeling with Higher-Level Representations for Long Documents.",
+        "Start": "While (large) language models have significantly improved over the last years, they still struggle to",
+        "Length": 147
+    },
+    {
+        "Index": 256,
+        "Title": "FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models.",
+        "Start": "The ability to follow instructions is crucial for Large Language Models (LLMs) to handle various",
+        "Length": 162
+    },
+    {
+        "Index": 257,
+        "Title": "Learning to Edit: Aligning LLMs with Knowledge Editing.",
+        "Start": "Knowledge editing techniques, aiming to efficiently modify a minor proportion of knowledge in large language",
+        "Length": 182
+    },
+    {
+        "Index": 258,
+        "Title": "DolphCoder: Echo-Locating Code Large Language Models with Diverse and Multi-Objective Instruction Tuning.",
+        "Start": "Code Large Language Models (Code LLMs) have demonstrated outstanding performance in code-related tasks. Various instruction",
+        "Length": 119
+    },
+    {
+        "Index": 259,
+        "Title": "When Only Time Will Tell: Interpreting How Transformers Process Local Ambiguities Through the Lens of Restart-Incrementality.",
+        "Start": "Incremental models that process sentences one token at a time will sometimes encounter points where",
+        "Length": 129
+    },
+    {
+        "Index": 260,
+        "Title": "SpaRC and SpaRP: Spatial Reasoning Characterization and Path Generation for Understanding Spatial Reasoning Capability of Large Language Models.",
+        "Start": "Spatial reasoning is a crucial component of both biological and artificial intelligence. In this work,",
+        "Length": 147
+    },
+    {
+        "Index": 261,
+        "Title": "Planning Like Human: A Dual-process Framework for Dialogue Planning.",
+        "Start": "In proactive dialogue, the challenge lies not just in generating responses but in steering conversations",
+        "Length": 171
+    },
+    {
+        "Index": 262,
+        "Title": "Spectral Filters, Dark Signals, and Attention Sinks.",
+        "Start": "Projecting intermediate representations onto the vocabulary is an increasingly popular interpretation tool for transformer-based LLMs,",
+        "Length": 153
+    },
+    {
+        "Index": 263,
+        "Title": "DiffuCOMET: Contextual Commonsense Knowledge Diffusion.",
+        "Start": "Inferring contextually-relevant and diverse commonsense to understand narratives remains challenging for knowledge models. In this",
+        "Length": 125
+    },
+    {
+        "Index": 264,
+        "Title": "Systematic Task Exploration with LLMs: A Study in Citation Text Generation.",
+        "Start": "Large language models (LLMs) bring unprecedented flexibility in defining and executing complex, creative natural language",
+        "Length": 163
+    },
+    {
+        "Index": 265,
+        "Title": "Limits of Theory of Mind Modelling in Dialogue-Based Collaborative Plan Acquisition.",
+        "Start": "Recent work on dialogue-based collaborative plan acquisition (CPA) has suggested that Theory of Mind (ToM)",
+        "Length": 170
+    },
+    {
+        "Index": 266,
+        "Title": "Temporal Knowledge Question Answering via Abstract Reasoning Induction.",
+        "Start": "In this study, we address the challenge of enhancing temporal knowledge reasoning in Large Language",
+        "Length": 165
+    },
+    {
+        "Index": 267,
+        "Title": "Who Wrote this Code? Watermarking for Code Generation.",
+        "Start": "Since the remarkable generation performance of large language models raised ethical and legal concerns, approaches",
+        "Length": 104
+    },
+    {
+        "Index": 268,
+        "Title": "MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.",
+        "Start": "Code synthesis, which requires a deep understanding of complex natural language (NL) problem descriptions, generation",
+        "Length": 174
+    },
+    {
+        "Index": 269,
+        "Title": "RelayAttention for Efficient Large Language Model Serving with Long System Prompts.",
+        "Start": "A practical large language model (LLM) service may involve a long system prompt, which specifies",
+        "Length": 193
+    },
+    {
+        "Index": 270,
+        "Title": "Boosting Language Models Reasoning with Chain-of-Knowledge Prompting.",
+        "Start": "Recently, Chain-of-Thought (CoT) prompting has delivered success on complex reasoning tasks, which aims at designing",
+        "Length": 173
+    },
+    {
+        "Index": 271,
+        "Title": "Open Grounded Planning: Challenges and Benchmark Construction.",
+        "Start": "The emergence of large language models (LLMs) has increasingly drawn attention to the use of",
+        "Length": 188
+    },
+    {
+        "Index": 272,
+        "Title": "LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures.",
+        "Start": "In response to the escalating demand for digital human representations, progress has been made in",
+        "Length": 155
+    },
+    {
+        "Index": 273,
+        "Title": "QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction.",
+        "Start": "Employing Large Language Models (LLMs) for semantic parsing has achieved remarkable success. However, we find",
+        "Length": 142
+    },
+    {
+        "Index": 274,
+        "Title": "PITA: Prompting Task Interaction for Argumentation Mining.",
+        "Start": "Argumentation mining (AM) aims to detect the arguments and their inherent relations from argumentative textual",
+        "Length": 231
+    },
+    {
+        "Index": 275,
+        "Title": "Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models.",
+        "Start": "Large Language Models (LLMs) show promising results in language generation and instruction following but frequently",
+        "Length": 172
+    },
+    {
+        "Index": 276,
+        "Title": "Babel-ImageNet: Massively Multilingual Evaluation of Vision-and-Language Representations.",
+        "Start": "Vision-and-language (VL) models with separate encoders for each modality (e.g., CLIP) have become the go-to",
+        "Length": 191
+    },
+    {
+        "Index": 277,
+        "Title": "Estimating Agreement by Chance for Sequence Annotation.",
+        "Start": "In the field of natural language processing, correction of performance assessment for chance agreement plays",
+        "Length": 132
+    },
+    {
+        "Index": 278,
+        "Title": "Are Emergent Abilities in Large Language Models just In-Context Learning?",
+        "Start": "Large language models, comprising billions of parameters and pre-trained on extensive web-scale corpora, have been",
+        "Length": 181
+    },
+    {
+        "Index": 279,
+        "Title": "WaveCoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning.",
+        "Start": "Recent work demonstrates that, after instruction tuning, Code Large Language Models (Code LLMs) can obtain",
+        "Length": 161
+    },
+    {
+        "Index": 280,
+        "Title": "Eliciting Better Multilingual Structured Reasoning from LLMs through Code.",
+        "Start": "The development of large language models (LLM) has shown progress on reasoning, though studies have",
+        "Length": 160
+    },
+    {
+        "Index": 281,
+        "Title": "OLIVE: Object Level In-Context Visual Embeddings.",
+        "Start": "Recent generalist vision-language models (VLMs) have demonstrated impressive reasoning capabilities across diverse multimodal tasks. However,",
+        "Length": 162
+    },
+    {
+        "Index": 282,
+        "Title": "Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness.",
+        "Start": "We introduce BSDetector, a method for detecting bad and speculative answers from a pretrained Large",
+        "Length": 170
+    },
+    {
+        "Index": 283,
+        "Title": "Marathon: A Race Through the Realm of Long Context with Large Language Models.",
+        "Start": "With the advancement of large language models (LLMs) and the expansion of their context windows,",
+        "Length": 163
+    },
+    {
+        "Index": 284,
+        "Title": "Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph.",
+        "Start": "Model scaling is becoming the default choice for many language tasks due to the success",
+        "Length": 198
+    },
+    {
+        "Index": 285,
+        "Title": "PCAD: Towards ASR-Robust Spoken Language Understanding via Prototype Calibration and Asymmetric Decoupling.",
+        "Start": "Spoken language understanding (SLU) inevitably suffers from error propagation from automatic speech recognition (ASR) in",
+        "Length": 159
+    },
+    {
+        "Index": 286,
+        "Title": "Rethinking the Multimodal Correlation of Multimodal Sequential Learning via Generalizable Attentional Results Alignment.",
+        "Start": "Transformer-based methods have gone mainstream in multimodal sequential learning. The intra and inter modality interactions",
+        "Length": 237
+    },
+    {
+        "Index": 287,
+        "Title": "UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation.",
+        "Start": "Large language models (LLMs) produce hallucinated text, compromising their practical utility in professional contexts. To",
+        "Length": 146
+    },
+    {
+        "Index": 288,
+        "Title": "PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers.",
+        "Start": "Large Multimodal Models (LMMs) excel in natural language and visual understanding but are challenged by",
+        "Length": 132
+    },
+    {
+        "Index": 289,
+        "Title": "Triple-Encoders: Representations That Fire Together, Wire Together.",
+        "Start": "Search-based dialog models typically re-encode the dialog history at every turn, incurring high cost.Curved Contrastive",
+        "Length": 133
+    },
+    {
+        "Index": 290,
+        "Title": "Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning.",
+        "Start": "Hateful memes have emerged as a significant concern on the Internet. Detecting hateful memes requires",
+        "Length": 137
+    },
+    {
+        "Index": 291,
+        "Title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization.",
+        "Start": "Large Language Models (LLMs) exhibit robust problem-solving capabilities for diverse tasks. However, most LLM-based agents",
+        "Length": 175
+    },
+    {
+        "Index": 292,
+        "Title": "Your Transformer is Secretly Linear.",
+        "Start": "This paper reveals a novel linear characteristic exclusive to transformer decoders, including models like GPT,",
+        "Length": 138
+    },
+    {
+        "Index": 293,
+        "Title": "Noise Correction on Subjective Datasets.",
+        "Start": "Incorporating every annotator’s perspective is crucial for unbiased data modeling. Annotator fatigue and changing opinions",
+        "Length": 105
+    },
+    {
+        "Index": 294,
+        "Title": "Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers.",
+        "Start": "Recommender systems are widely used to suggest engaging content, and Large Language Models (LLMs) have",
+        "Length": 169
+    },
+    {
+        "Index": 295,
+        "Title": "Instruction-tuned Language Models are Better Knowledge Learners.",
+        "Start": "In order for large language model (LLM)-based assistants to effectively adapt to evolving information needs,",
+        "Length": 188
+    },
+    {
+        "Index": 296,
+        "Title": "What Do Language Models Hear? Probing for Auditory Representations in Language Models.",
+        "Start": "This work explores whether language models encode meaningfully grounded representations of sounds of objects. We",
+        "Length": 130
+    },
+    {
+        "Index": 297,
+        "Title": "Threads of Subtlety: Detecting Machine-Generated Texts Through Discourse Motifs.",
+        "Start": "With the advent of large language models (LLM), the line between human-crafted and machine-generated texts",
+        "Length": 156
+    },
+    {
+        "Index": 298,
+        "Title": "Jailbreak Open-Sourced Large Language Models via Enforced Decoding.",
+        "Start": "Large Language Models (LLMs) have achieved unprecedented performance in Natural Language Generation (NLG) tasks. However,",
+        "Length": 180
+    },
+    {
+        "Index": 299,
+        "Title": "NICE: To Optimize In-Context Examples or Not?",
+        "Start": "Recent work shows that in-context learning and optimization of in-context examples (ICE) can significantly improve",
+        "Length": 188
+    },
+    {
+        "Index": 300,
+        "Title": "CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation.",
+        "Start": "Large Language Models (LLMs) have demonstrated remarkable performance on assisting humans in programming and facilitating",
+        "Length": 209
+    },
+    {
+        "Index": 301,
+        "Title": "Digital Socrates: Evaluating LLMs through Explanation Critiques.",
+        "Start": "While LLMs can provide reasoned explanations along with their answers, the nature and quality of",
+        "Length": 174
+    },
+    {
+        "Index": 302,
+        "Title": "SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding.",
+        "Start": "As large language models (LLMs) become increasingly integrated into real-world applications such as code generation",
+        "Length": 202
+    },
+    {
+        "Index": 303,
+        "Title": "Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?",
+        "Start": "Large language models (LLMs) are typically prompted to follow a single instruction per inference call.",
+        "Length": 149
+    },
+    {
+        "Index": 304,
+        "Title": "Experiential Co-Learning of Software-Developing Agents.",
+        "Start": "Recent advancements in large language models (LLMs) have brought significant changes to various domains, especially",
+        "Length": 152
+    },
+    {
+        "Index": 305,
+        "Title": "Learning Geometry-Aware Representations for New Intent Discovery.",
+        "Start": "New intent discovery (NID) is an important problem for deploying practical dialogue systems, which trains",
+        "Length": 169
+    },
+    {
+        "Index": 306,
+        "Title": "Speaker Verification in Agent-generated Conversations.",
+        "Start": "The recent success of large language models (LLMs) has attracted widespread interest to develop role-playing",
+        "Length": 153
+    },
+    {
+        "Index": 307,
+        "Title": "Benchmarking Data Science Agents.",
+        "Start": "In the era of data-driven decision-making, the complexity of data analysis necessitates advanced expertise and",
+        "Length": 129
+    },
+    {
+        "Index": 308,
+        "Title": "Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models.",
+        "Start": "Large language models (LLMs) demonstrate remarkable multilingual capabilities without being pre-trained on specially curated multilingual",
+        "Length": 144
+    },
+    {
+        "Index": 309,
+        "Title": "Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models.",
+        "Start": "Recent advancements in Large Language Models (LLMs) have showcased their remarkable capabilities in text understanding",
+        "Length": 154
+    },
+    {
+        "Index": 310,
+        "Title": "A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques.",
+        "Start": "Large language models are first pre-trained on trillions of tokens and then instruction-tuned or aligned",
+        "Length": 187
+    },
+    {
+        "Index": 311,
+        "Title": "Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation.",
+        "Start": "Zero-shot dialogue state tracking (DST) seeks to enable dialogue systems to transition to unfamiliar domains",
+        "Length": 178
+    },
+    {
+        "Index": 312,
+        "Title": "PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking.",
+        "Start": "Pairwise Ranking Prompting (PRP) demonstrates impressive effectiveness in zero-shot document re-ranking tasks with large language",
+        "Length": 153
+    },
+    {
+        "Index": 313,
+        "Title": "RepCodec: A Speech Representation Codec for Speech Tokenization.",
+        "Start": "With recent rapid growth of large language models (LLMs), discrete speech tokenization has played an",
+        "Length": 161
+    },
+    {
+        "Index": 314,
+        "Title": "GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick.",
+        "Start": "Large language models (LLMs) excellently generate human-like text, but also raise concerns about misuse in",
+        "Length": 149
+    },
+    {
+        "Index": 315,
+        "Title": "Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection.",
+        "Start": "The swift detection of multimedia fake news has emerged as a crucial task in combating",
+        "Length": 187
+    },
+    {
+        "Index": 316,
+        "Title": "Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions.",
+        "Start": "This work introduces an original and practical paradigm for narrative comprehension, stemming from the characteristics",
+        "Length": 146
+    },
+    {
+        "Index": 317,
+        "Title": "Stealthy Attack on Large Language Model based Recommendation.",
+        "Start": "Recently, the powerful large language models (LLMs) have been instrumental in propelling the progress of",
+        "Length": 161
+    },
+    {
+        "Index": 318,
+        "Title": "Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning.",
+        "Start": "The evaluation of summary quality encompasses diverse dimensions such as consistency, coherence, relevance, and fluency.",
+        "Length": 152
+    },
+    {
+        "Index": 319,
+        "Title": "Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models.",
+        "Start": "In reasoning tasks, even a minor error can cascade into inaccurate results, leading to suboptimal",
+        "Length": 198
+    },
+    {
+        "Index": 320,
+        "Title": "SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning.",
+        "Start": "Elucidating the reasoning process with structured explanations from question to answer is crucial, as it",
+        "Length": 167
+    },
+    {
+        "Index": 321,
+        "Title": "Towards Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Label Learning.",
+        "Start": "Parameter-efficient fine-tuning (PEFT) has enabled the efficient optimization of cumbersome language models in real-world settings.",
+        "Length": 175
+    },
+    {
+        "Index": 322,
+        "Title": "SparseFlow: Accelerating Transformers by Sparsifying Information Flows.",
+        "Start": "Transformers have become the de-facto standard for natural language processing. However, dense information flows within",
+        "Length": 163
+    },
+    {
+        "Index": 323,
+        "Title": "ProtT3: Protein-to-Text Generation for Text-based Protein Understanding.",
+        "Start": "Language Models (LMs) excel in understanding textual descriptions of proteins, as evident in biomedical question-answering",
+        "Length": 197
+    },
+    {
+        "Index": 324,
+        "Title": "KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models.",
+        "Start": "Automatic evaluation methods for large language models (LLMs) are hindered by data contamination, leading to",
+        "Length": 162
+    },
+    {
+        "Index": 325,
+        "Title": "EmoBench: Evaluating the Emotional Intelligence of Large Language Models.",
+        "Start": "Recent advances in Large Language Models (LLMs) have highlighted the need for robust, comprehensive, and",
+        "Length": 155
+    },
+    {
+        "Index": 326,
+        "Title": "Are AI-Generated Text Detectors Robust to Adversarial Perturbations?",
+        "Start": "The widespread use of large language models (LLMs) has sparked concerns about the potential misuse",
+        "Length": 173
+    },
+    {
+        "Index": 327,
+        "Title": "FinTextQA: A Dataset for Long-form Financial Question Answering.",
+        "Start": "Accurate evaluation of financial question answering (QA) systems necessitates a comprehensive dataset encompassing diverse question",
+        "Length": 168
+    },
+    {
+        "Index": 328,
+        "Title": "On Measuring Faithfulness or Self-consistency of Natural Language Explanations.",
+        "Start": "Large language models (LLMs) can explain their predictions through post-hoc or Chain-of-Thought (CoT) explanations. But",
+        "Length": 213
+    },
+    {
+        "Index": 329,
+        "Title": "Learning or Self-aligning? Rethinking Instruction Fine-tuning.",
+        "Start": "Instruction Fine-tuning (IFT) is a crucial phase in building large language models (LLMs). Previous works",
+        "Length": 137
+    },
+    {
+        "Index": 330,
+        "Title": "Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?",
+        "Start": "Recent progress in LLMs discussion suggests that multi-agent discussion improves the reasoning abilities of LLMs.",
+        "Length": 114
+    },
+    {
+        "Index": 331,
+        "Title": "Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA.",
+        "Start": "LLM has achieved impressive performance on multi-modal tasks, which have received ever-increasing research attention. Recent",
+        "Length": 135
+    },
+    {
+        "Index": 332,
+        "Title": "TasTe: Teaching Large Language Models to Translate through Self-Reflection.",
+        "Start": "Large language models (LLMs) have exhibited remarkable performance in various natural language processing tasks. Techniques",
+        "Length": 181
+    },
+    {
+        "Index": 333,
+        "Title": "Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.",
+        "Start": "A pivotal advancement in the progress of large language models (LLMs) is the emergence of",
+        "Length": 144
+    },
+    {
+        "Index": 334,
+        "Title": "UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion.",
+        "Start": "Existing text-to-image diffusion models primarily generate images from text prompts. However, the inherent conciseness of",
+        "Length": 174
+    },
+    {
+        "Index": 335,
+        "Title": "The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities.",
+        "Start": "Fine-tuning large language models (LLMs) for machine translation has shown improvements in overall translation quality.",
+        "Length": 178
+    },
+    {
+        "Index": 336,
+        "Title": "Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?",
+        "Start": "While auxiliary information has become a key to enhancing Large Language Models (LLMs), relatively little",
+        "Length": 182
+    },
+    {
+        "Index": 337,
+        "Title": "Unveiling Linguistic Regions in Large Language Models.",
+        "Start": "Large Language Models (LLMs) have demonstrated considerable cross-lingual alignment and generalization ability. Current research primarily",
+        "Length": 191
+    },
+    {
+        "Index": 338,
+        "Title": "Text-to-Song: Towards Controllable Music Generation Incorporating Vocal and Accompaniment.",
+        "Start": "A song is a combination of singing voice and accompaniment. However, existing works focus on",
+        "Length": 124
+    },
+    {
+        "Index": 339,
+        "Title": "FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection.",
+        "Start": "Open Domain Question Answering (ODQA) has been advancing rapidly in recent times, driven by significant",
+        "Length": 187
+    },
+    {
+        "Index": 340,
+        "Title": "Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models' Understanding of Discourse Relations.",
+        "Start": "While large language models have significantly enhanced the effectiveness of discourse relation classifications, it remains",
+        "Length": 184
+    },
+    {
+        "Index": 341,
+        "Title": "An Open Multilingual System for Scoring Readability of Wikipedia.",
+        "Start": "With over 60M articles, Wikipedia has become the largest platform for open and freely accessible",
+        "Length": 182
+    },
+    {
+        "Index": 342,
+        "Title": "Unlearning Traces the Influential Training Data of Language Models.",
+        "Start": "Identifying the training datasets that influence a language model’s outputs is essential for minimizing the",
+        "Length": 160
+    },
+    {
+        "Index": 343,
+        "Title": "Exploring Alignment in Shared Cross-lingual Spaces.",
+        "Start": "Despite their remarkable ability to capture linguistic nuances across diverse languages, questions persist regarding the",
+        "Length": 157
+    },
+    {
+        "Index": 344,
+        "Title": "Not All Countries Celebrate Thanksgiving: On the Cultural Dominance in Large Language Models.",
+        "Start": "This paper identifies a cultural dominance issue within large language models (LLMs) due to the",
+        "Length": 145
+    },
+    {
+        "Index": 345,
+        "Title": "Self-Evolving GPT: A Lifelong Autonomous Experiential Learner.",
+        "Start": "To improve the performance of large language models (LLMs), researchers have explored providing LLMs with",
+        "Length": 189
+    },
+    {
+        "Index": 346,
+        "Title": "WRP: Weight Recover Prune for Structured Sparsity.",
+        "Start": "As the scale of Large Language Models (LLMs) increases, it is necessary to compress the",
+        "Length": 194
+    },
+    {
+        "Index": 347,
+        "Title": "Error-preserving Automatic Speech Recognition of Young English Learners' Language.",
+        "Start": "One of the central skills that language learners need to practice is speaking the language.",
+        "Length": 217
+    },
+    {
+        "Index": 348,
+        "Title": "DiFiNet: Boundary-Aware Semantic Differentiation and Filtration Network for Nested Named Entity Recognition.",
+        "Start": "Nested Named Entity Recognition (Nested NER) entails identifying and classifying entity spans within the text,",
+        "Length": 153
+    },
+    {
+        "Index": 349,
+        "Title": "Legal Case Retrieval: A Survey of the State of the Art.",
+        "Start": "Recent years have seen increasing attention on Legal Case Retrieval (LCR), a key task in",
+        "Length": 81
+    },
+    {
+        "Index": 350,
+        "Title": "Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation.",
+        "Start": "Compositional generalization, representing the model’s ability to generate text with new attribute combinations obtained by",
+        "Length": 135
+    },
+    {
+        "Index": 351,
+        "Title": "LLaMA Pro: Progressive LLaMA with Block Expansion.",
+        "Start": "Humans generally acquire new skills without compromising the old; however, the opposite holds for Large",
+        "Length": 154
+    },
+    {
+        "Index": 352,
+        "Title": "Generating Contrastive Narratives Using the Brownian Bridge Process for Narrative Coherence Learning.",
+        "Start": "A major challenge for narrative reasoning is to learn narrative coherence. Existing works mainly follow",
+        "Length": 102
+    },
+    {
+        "Index": 353,
+        "Title": "A Causal Approach for Counterfactual Reasoning in Narratives.",
+        "Start": "Counterfactual reasoning in narratives requires predicting how alternative conditions, contrary to what actually happened, might",
+        "Length": 98
+    },
+    {
+        "Index": 354,
+        "Title": "SIP: Injecting a Structural Inductive Bias into a Seq2Seq Model by Simulation.",
+        "Start": "Strong inductive biases enable learning from little data and help generalization outside the training distribution.",
+        "Length": 154
+    },
+    {
+        "Index": 355,
+        "Title": "The Hidden Space of Transformer Language Adapters.",
+        "Start": "We analyze the operation of transformer language adapters, which are small modules trained on top",
+        "Length": 142
+    },
+    {
+        "Index": 356,
+        "Title": "A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts.",
+        "Start": "In the realm of text manipulation and linguistic transformation, the question of authorship has been",
+        "Length": 186
+    },
+    {
+        "Index": 357,
+        "Title": "Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations.",
+        "Start": "In spoken dialogue, even if two current turns are the same sentence, their responses might",
+        "Length": 214
+    },
+    {
+        "Index": 358,
+        "Title": "RetinaQA: A Robust Knowledge Base Question Answering Model for both Answerable and Unanswerable Questions.",
+        "Start": "An essential requirement for a real-world Knowledge Base Question Answering (KBQA) system is the ability",
+        "Length": 162
+    },
+    {
+        "Index": 359,
+        "Title": "GroundingGPT: Language Enhanced Multi-modal Grounding Model.",
+        "Start": "Multi-modal large language models (MLLMs) have demonstrated remarkable performance across various tasks. However, these models",
+        "Length": 175
+    },
+    {
+        "Index": 360,
+        "Title": "Automated Justification Production for Claim Veracity in Fact Checking: A Survey on Architectures and Approaches.",
+        "Start": "Automated Fact-Checking (AFC) is the automated verification of claim accuracy. AFC is crucial in discerning",
+        "Length": 79
+    },
+    {
+        "Index": 361,
+        "Title": "Decoupled Vocabulary Learning Enables Zero-Shot Translation from Unseen Languages.",
+        "Start": "Multilingual neural machine translation systems learn to map sentences of different languages into a common",
+        "Length": 186
+    },
+    {
+        "Index": 362,
+        "Title": "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget.",
+        "Start": "Mixture of experts (MoE) is a popular technique to improve capacity of Large Language Models",
+        "Length": 157
+    },
+    {
+        "Index": 363,
+        "Title": "PixT3: Pixel-based Table-To-Text Generation.",
+        "Start": "Table-to-text generation involves generating appropriate textual descriptions given structured tabular data. It has attracted increasing",
+        "Length": 158
+    },
+    {
+        "Index": 364,
+        "Title": "Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers.",
+        "Start": "Factual questions typically can be answered correctly at different levels of granularity. For example, both",
+        "Length": 199
+    },
+    {
+        "Index": 365,
+        "Title": "TAMS: Translation-Assisted Morphological Segmentation.",
+        "Start": "Canonical morphological segmentation is the process of analyzing words into the standard (aka underlying) forms",
+        "Length": 165
+    },
+    {
+        "Index": 366,
+        "Title": "XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval.",
+        "Start": "Recently, pre-trained large language models (LLMs) have shown impressive abilities in generating codes from natural",
+        "Length": 238
+    },
+    {
+        "Index": 367,
+        "Title": "ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models.",
+        "Start": "Large Language Models (LLMs) have succeeded remarkably in understanding long-form contents. However, exploring their capability",
+        "Length": 173
+    },
+    {
+        "Index": 368,
+        "Title": "A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia.",
+        "Start": "Large language models (LLMs) have an impressive ability to draw on novel information supplied in",
+        "Length": 202
+    },
+    {
+        "Index": 369,
+        "Title": "Muffin or Chihuahua? Challenging Multimodal Large Language Models with Multipanel VQA.",
+        "Start": "Multipanel images, commonly seen as web screenshots, posters, etc., pervade our daily lives. These images,",
+        "Length": 191
+    },
+    {
+        "Index": 370,
+        "Title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models.",
+        "Start": "The rapid advancement of large language models (LLMs) has led to a new era marked",
+        "Length": 174
+    },
+    {
+        "Index": 371,
+        "Title": "Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms.",
+        "Start": "Constructing lexicons with explicitly identified lexical gaps is a vital part of building multilingual lexical",
+        "Length": 115
+    },
+    {
+        "Index": 372,
+        "Title": "Leveraging Machine-Generated Rationales to Facilitate Social Meaning Detection in Conversations.",
+        "Start": "We present a generalizable classification approach that leverages Large Language Models (LLMs) to facilitate the",
+        "Length": 102
+    },
+    {
+        "Index": 373,
+        "Title": "Robust Frame-Semantic Models with Lexical Unit Trees and Negative Samples.",
+        "Start": "We present novel advancements in frame-semantic parsing, specifically focusing on target identification and frame identification.",
+        "Length": 165
+    },
+    {
+        "Index": 374,
+        "Title": "Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation.",
+        "Start": "Advancements in logical reasoning, utilizing LLMs to convert natural language into logical symbolism, combined with",
+        "Length": 210
+    },
+    {
+        "Index": 375,
+        "Title": "Lightweight reranking for language model generations.",
+        "Start": "Large Language Models (LLMs) can exhibit considerable variation in the quality of their sampled outputs.",
+        "Length": 157
+    },
+    {
+        "Index": 376,
+        "Title": "ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews.",
+        "Start": "We introduce the task of automatically revising scientific papers based on peer feedback and release",
+        "Length": 166
+    },
+    {
+        "Index": 377,
+        "Title": "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks.",
+        "Start": "How can we train models to perform well on hard test data when hard training",
+        "Length": 204
+    },
+    {
+        "Index": 378,
+        "Title": "PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning.",
+        "Start": "Instruction tuning has remarkably advanced large language models (LLMs) in understanding and responding to diverse",
+        "Length": 180
+    },
+    {
+        "Index": 379,
+        "Title": "MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning.",
+        "Start": "We study the task of conducting structured reasoning as generating a reasoning graph from natural",
+        "Length": 199
+    },
+    {
+        "Index": 380,
+        "Title": "ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs.",
+        "Start": "Large Language Models (LLMs) still struggle with natural language reasoning tasks. Motivated by the society",
+        "Length": 192
+    },
+    {
+        "Index": 381,
+        "Title": "Mirror: Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning.",
+        "Start": "While Large language models (LLMs) have the capability to iteratively reflect on their own outputs,",
+        "Length": 158
+    },
+    {
+        "Index": 382,
+        "Title": "Where Do People Tell Stories Online? Story Detection Across Online Communities.",
+        "Start": "Story detection in online communities is a challenging task as stories are scattered across communities",
+        "Length": 192
+    },
+    {
+        "Index": 383,
+        "Title": "Large Language Models Are No Longer Shallow Parsers.",
+        "Start": "The development of large language models (LLMs) brings significant changes to the field of natural",
+        "Length": 187
+    },
+    {
+        "Index": 384,
+        "Title": "Dialogue Summarization with Mixture of Experts based on Large Language Models.",
+        "Start": "Dialogue summarization is an important task that requires to generate highlights for a conversation from",
+        "Length": 190
+    },
+    {
+        "Index": 385,
+        "Title": "ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences.",
+        "Start": "Recently, the increasing demand for superior medical services has highlighted the discrepancies in the medical",
+        "Length": 180
+    },
+    {
+        "Index": 386,
+        "Title": "An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs.",
+        "Start": "Large language models (LLMs) have shown strong arithmetic reasoning capabilities when prompted with Chain-of-Thought (CoT)",
+        "Length": 175
+    },
+    {
+        "Index": 387,
+        "Title": "Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling.",
+        "Start": "Making legal knowledge accessible to non-experts is crucial for enhancing general legal literacy and encouraging",
+        "Length": 215
+    },
+    {
+        "Index": 388,
+        "Title": "Intrinsic Task-based Evaluation for Referring Expression Generation.",
+        "Start": "Recently, a human evaluation study of Referring Expression Generation (REG) models had an unexpected conclusion:",
+        "Length": 158
+    },
+    {
+        "Index": 389,
+        "Title": "From Moments to Milestones: Incremental Timeline Summarization Leveraging Large Language Models.",
+        "Start": "Timeline summarization (TLS) is essential for distilling coherent narratives from a vast collection of texts,",
+        "Length": 131
+    },
+    {
+        "Index": 390,
+        "Title": "End-to-end Learning of Logical Rules for Enhancing Document-level Relation Extraction.",
+        "Start": "Document-level relation extraction (DocRE) aims to extract relations between entities in a whole document. One",
+        "Length": 205
+    },
+    {
+        "Index": 391,
+        "Title": "Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?",
+        "Start": "Recently proposed two-pass direct speech-to-speech translation (S2ST) models decompose the task into speech-to-text translation (S2TT)",
+        "Length": 202
+    },
+    {
+        "Index": 392,
+        "Title": "Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder.",
+        "Start": "Reconstructing natural language from non-invasive electroencephalography (EEG) holds great promise as a language decoding technology",
+        "Length": 202
+    },
+    {
+        "Index": 393,
+        "Title": "CQIL: Inference Latency Optimization with Concurrent Computation of Quasi-Independent Layers.",
+        "Start": "The fast-growing large scale language models are delivering unprecedented performance on almost all natural language",
+        "Length": 164
+    },
+    {
+        "Index": 394,
+        "Title": "Prompt Optimization via Adversarial In-Context Learning.",
+        "Start": "We propose a new method, Adversarial In-Context Learning (adv-ICL), to optimize prompts for in-context learning",
+        "Length": 157
+    },
+    {
+        "Index": 395,
+        "Title": "StreamVoice: Streamable Context-Aware Language Modeling for Real-time Zero-Shot Voice Conversion.",
+        "Start": "Recent language model (LM) advancements have showcased impressive zero-shot voice conversion (VC) performance. However, existing",
+        "Length": 197
+    },
+    {
+        "Index": 396,
+        "Title": "Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering.",
+        "Start": "Multi-Hop Question Answering (MHQA) task presents a significant challenge for large language models (LLMs) due",
+        "Length": 163
+    },
+    {
+        "Index": 397,
+        "Title": "Multimodal Contextualized Semantic Parsing from Speech.",
+        "Start": "We introduce Semantic Parsing in Contextual Environments (SPICE), a task designed to enhance artificial agents’",
+        "Length": 110
+    },
+    {
+        "Index": 398,
+        "Title": "LaMP: When Large Language Models Meet Personalization.",
+        "Start": "This paper highlights the importance of personalization in large language models and introduces the LaMP",
+        "Length": 128
+    },
+    {
+        "Index": 399,
+        "Title": "AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters.",
+        "Start": "Large language models’ (LLMs) abilities are drawn from their pretraining data, and model development begins",
+        "Length": 165
+    },
+    {
+        "Index": 400,
+        "Title": "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.",
+        "Start": "The advent of Large Language Models (LLMs) has drastically enhanced dialogue systems. However, comprehensively evaluating",
+        "Length": 172
+    },
+    {
+        "Index": 401,
+        "Title": "EFSA: Towards Event-Level Financial Sentiment Analysis.",
+        "Start": "In this paper, we extend financial sentiment analysis (FSA) to event-level since events usually serve",
+        "Length": 171
+    },
+    {
+        "Index": 402,
+        "Title": "What Evidence Do Language Models Find Convincing?",
+        "Start": "Retrieval-augmented language models are being increasingly tasked with subjective, contentious, and conflicting queries such as",
+        "Length": 185
+    },
+    {
+        "Index": 403,
+        "Title": "Advancement in Graph Understanding: A Multimodal Benchmark and Fine-Tuning of Vision-Language Models.",
+        "Start": "Graph data organizes complex relationships and interactions between objects, facilitating advanced analysis and decision-making across",
+        "Length": 149
+    },
+    {
+        "Index": 404,
+        "Title": "LangBridge: Multilingual Reasoning Without Multilingual Supervision.",
+        "Start": "We introduce LangBridge, a zero-shot approach to adapt language models for multilingual reasoning tasks without",
+        "Length": 109
+    },
+    {
+        "Index": 405,
+        "Title": "Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs.",
+        "Start": "Large language models (LLMs) have achieved impressive human-like performance across various reasoning tasks. However, their",
+        "Length": 149
+    },
+    {
+        "Index": 406,
+        "Title": "SEGO: Sequential Subgoal Optimization for Mathematical Problem-Solving.",
+        "Start": "Large Language Models (LLMs) have driven substantial progress in artificial intelligence in recent years, exhibiting",
+        "Length": 143
+    },
+    {
+        "Index": 407,
+        "Title": "Unlocking the Power of Large Language Models for Entity Alignment.",
+        "Start": "Entity Alignment (EA) is vital for integrating diverse knowledge graph (KG) data, playing a crucial",
+        "Length": 156
+    },
+    {
+        "Index": 408,
+        "Title": "Trial and Error: Exploration-Based Trajectory Optimization of LLM Agents.",
+        "Start": "Large Language Models (LLMs) have become integral components in various autonomous agent systems.In this study,",
+        "Length": 163
+    },
+    {
+        "Index": 409,
+        "Title": "ReFT: Reasoning with Reinforced Fine-Tuning.",
+        "Start": "One way to enhance the reasoning capability of Large Language Models (LLMs) is to conduct",
+        "Length": 220
+    },
+    {
+        "Index": 410,
+        "Title": "Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment.",
+        "Start": "Evaluating and Rethinking the current landscape of Large Multimodal Models (LMMs), we observe that widely-used",
+        "Length": 207
+    },
+    {
+        "Index": 411,
+        "Title": "FreeCtrl: Constructing Control Centers with Feedforward Layers for Learning-Free Controllable Text Generation.",
+        "Start": "Controllable text generation (CTG) seeks to craft texts adhering to specific attributes, traditionally employing learning-based",
+        "Length": 165
+    },
+    {
+        "Index": 412,
+        "Title": "HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition.",
+        "Start": "Large language models (LLMs) have emerged as a promising alternative to expensive human evaluations. However,",
+        "Length": 195
+    },
+    {
+        "Index": 413,
+        "Title": "Conundrums in Cross-Prompt Automated Essay Scoring: Making Sense of the State of the Art.",
+        "Start": "Cross-prompt automated essay scoring (AES), an under-investigated but challenging task that has gained increasing popularity",
+        "Length": 111
+    },
+    {
+        "Index": 414,
+        "Title": "Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution.",
+        "Start": "Large language models (LLMs) reflect societal norms and biases, especially about gender. While societal biases",
+        "Length": 209
+    },
+    {
+        "Index": 415,
+        "Title": "Label Augmentation for Zero-Shot Hierarchical Text Classification.",
+        "Start": "Hierarchical Text Classification poses the difficult challenge of classifying documents into multiple labels organized in",
+        "Length": 189
+    },
+    {
+        "Index": 416,
+        "Title": "STICKERCONV: Generating Multimodal Empathetic Responses from Scratch.",
+        "Start": "Stickers, while widely recognized for enhancing empathetic communication in online interactions, remain underexplored in current",
+        "Length": 146
+    },
+    {
+        "Index": 417,
+        "Title": "EIT: Enhanced Interactive Transformer.",
+        "Start": "Two principles: the complementary principle and the consensus principle are widely acknowledged in the literature",
+        "Length": 138
+    },
+    {
+        "Index": 418,
+        "Title": "MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs.",
+        "Start": "Generative Large Language Models (LLMs) are widely utilized for their excellence in various tasks. However,",
+        "Length": 155
+    },
+    {
+        "Index": 419,
+        "Title": "EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models.",
+        "Start": "We introduce EXAMS-V, a new challenging multi-discipline multimodal multilingual exam benchmark for evaluating vision language",
+        "Length": 166
+    },
+    {
+        "Index": 420,
+        "Title": "Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition.",
+        "Start": "Data augmentation (DA) methods have been proven to be effective for pre-trained language models (PLMs)",
+        "Length": 196
+    },
+    {
+        "Index": 421,
+        "Title": "Text Embedding Inversion Security for Multilingual Language Models.",
+        "Start": "Textual data is often represented as real-numbered embeddings in NLP, particularly with the popularity of",
+        "Length": 159
+    },
+    {
+        "Index": 422,
+        "Title": "Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment.",
+        "Start": "Considerable efforts have been invested in augmenting the role-playing proficiency of open-source large language models",
+        "Length": 173
+    },
+    {
+        "Index": 423,
+        "Title": "PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator.",
+        "Start": "The unparalleled performance of closed-sourced ChatGPT has sparked efforts towards its democratization, with notable strides",
+        "Length": 167
+    },
+    {
+        "Index": 424,
+        "Title": "Synthesizing Text-to-SQL Data from Weak and Strong LLMs.",
+        "Start": "The capability gap between open-source and closed-source large language models (LLMs) remains a challenge in",
+        "Length": 119
+    },
+    {
+        "Index": 425,
+        "Title": "STRUCTSUM Generation for Faster Text Comprehension.",
+        "Start": "We consider the task of generating structured representations of text using large language models (LLMs).",
+        "Length": 181
+    },
+    {
+        "Index": 426,
+        "Title": "Analysing The Impact of Sequence Composition on Language Model Pre-Training.",
+        "Start": "Most language model pre-training frameworks concatenate multiple documents into fixed-length sequences and use causal masking",
+        "Length": 165
+    },
+    {
+        "Index": 427,
+        "Title": "NACL: A General and Effective KV Cache Eviction Framework for LLM at Inference Time.",
+        "Start": "Large Language Models (LLMs) have ignited an innovative surge of AI applications, marking a new",
+        "Length": 185
+    },
+    {
+        "Index": 428,
+        "Title": "SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network.",
+        "Start": "Brain-inspired Spiking Neural Network (SNN) has demonstrated its effectiveness and efficiency in vision, natural language,",
+        "Length": 187
+    },
+    {
+        "Index": 429,
+        "Title": "Context-aware Difference Distilling for Multi-change Captioning.",
+        "Start": "Multi-change captioning aims to describe complex and coupled changes within an image pair in natural",
+        "Length": 171
+    },
+    {
+        "Index": 430,
+        "Title": "Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion.",
+        "Start": "Recent years have witnessed the deployment of code language models (LMs) in various code intelligence",
+        "Length": 156
+    },
+    {
+        "Index": 431,
+        "Title": "Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation.",
+        "Start": "Multiple-choice questions (MCQs) are important in enhancing concept learning and student engagement for educational purposes.",
+        "Length": 141
+    },
+    {
+        "Index": 432,
+        "Title": "LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification.",
+        "Start": "With the booming of Large Language Models (LLMs), prompt-learning has become a promising method mainly",
+        "Length": 192
+    },
+    {
+        "Index": 433,
+        "Title": "LEMON: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion.",
+        "Start": "In the new era of language models, small models (with billions of parameter sizes) are",
+        "Length": 174
+    },
+    {
+        "Index": 434,
+        "Title": "Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation.",
+        "Start": "End-to-end speech translation (ST) presents notable disambiguation challenges as it necessitates simultaneous cross-modal and cross-lingual",
+        "Length": 156
+    },
+    {
+        "Index": 435,
+        "Title": "To be Continuous, or to be Discrete, Those are Bits of Questions.",
+        "Start": "Recently, binary representation has been proposed as a novel representation that lies between continuous and",
+        "Length": 151
+    },
+    {
+        "Index": 436,
+        "Title": "Moûsai: Efficient Text-to-Music Diffusion Models.",
+        "Start": "Recent years have seen the rapid development of large generative models for text; however, much",
+        "Length": 176
+    },
+    {
+        "Index": 437,
+        "Title": "PokeMQA: Programmable knowledge editing for Multi-hop Question Answering.",
+        "Start": "Multi-hop question answering (MQA) is one of the challenging tasks to evaluate machine’s comprehension and",
+        "Length": 207
+    },
+    {
+        "Index": 438,
+        "Title": "MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention.",
+        "Start": "In the digital world, memes present a unique challenge for content moderation due to their",
+        "Length": 168
+    },
+    {
+        "Index": 439,
+        "Title": "Efficient OCR for Building a Diverse Digital History.",
+        "Start": "Many users consult digital archives daily, but the information they can access is unrepresentative of",
+        "Length": 119
+    },
+    {
+        "Index": 440,
+        "Title": "Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space.",
+        "Start": "Despite the notable success of language models (LMs) in various natural language processing (NLP) tasks,",
+        "Length": 198
+    },
+    {
+        "Index": 441,
+        "Title": "ANAH: Analytical Annotation of Hallucinations in Large Language Models.",
+        "Start": "Reducing the ‘hallucination' problem of Large Language Models (LLMs) is crucial for their wide applications.",
+        "Length": 184
+    },
+    {
+        "Index": 442,
+        "Title": "Aligning Large Language Models for Controllable Recommendations.",
+        "Start": "Inspired by the exceptional general intelligence of Large Language Models (LLMs), researchers have begun to",
+        "Length": 148
+    },
+    {
+        "Index": 443,
+        "Title": "Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods.",
+        "Start": "Language Models (LMs) acquire parametric knowledge from their training process, embedding it within their weights.",
+        "Length": 227
+    },
+    {
+        "Index": 444,
+        "Title": "Full Parameter Fine-tuning for Large Language Models with Limited Resources.",
+        "Start": "Large Language Models (LLMs) have revolutionized Natural Language Processing (NLP) but demand massive GPU resources",
+        "Length": 146
+    },
+    {
+        "Index": 445,
+        "Title": "M³CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought.",
+        "Start": "Multi-modal Chain-of-Thought (MCoT) requires models to leverage knowledge from both textual and visual modalities for",
+        "Length": 162
+    },
+    {
+        "Index": 446,
+        "Title": "Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models.",
+        "Start": "Long-context modeling capabilities are important for large language models (LLMs) in various applications. However, directly",
+        "Length": 178
+    },
+    {
+        "Index": 447,
+        "Title": "Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation.",
+        "Start": "While the neural transducer is popular for online speech recognition, simultaneous speech translation (SST) requires",
+        "Length": 177
+    },
+    {
+        "Index": 448,
+        "Title": "Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL.",
+        "Start": "With the advent of foundation models, prompt tuning has positioned itself as an important technique",
+        "Length": 196
+    },
+    {
+        "Index": 449,
+        "Title": "A Modular Approach for Multimodal Summarization of TV Shows.",
+        "Start": "In this paper we address the task of summarizing television shows, which touches key areas",
+        "Length": 147
+    },
+    {
+        "Index": 450,
+        "Title": "Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities.",
+        "Start": "Human interactions are deeply rooted in the interplay of thoughts, beliefs, and desires made possible",
+        "Length": 178
+    },
+    {
+        "Index": 451,
+        "Title": "BizBench: A Quantitative Reasoning Benchmark for Business and Finance.",
+        "Start": "Answering questions within business and finance requires reasoning, precision, and a wide-breadth of technical knowledge.",
+        "Length": 174
+    },
+    {
+        "Index": 452,
+        "Title": "Direct Metric Optimization for Image Captioning through Reward-Weighted Augmented Data Utilization.",
+        "Start": "While image captioning is an essential field of vision language models (VLM), a lack of",
+        "Length": 152
+    },
+    {
+        "Index": 453,
+        "Title": "Deciphering Hate: Identifying Hateful Memes and Their Targets.",
+        "Start": "Internet memes have become a powerful means for individuals to express emotions, thoughts, and perspectives",
+        "Length": 202
+    },
+    {
+        "Index": 454,
+        "Title": "Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings.",
+        "Start": "Transformers generalize to novel compositions of structures and entities after being trained on a complex",
+        "Length": 174
+    },
+    {
+        "Index": 455,
+        "Title": "Label-Efficient Model Selection for Text Generation.",
+        "Start": "Model selection for a given target task can be costly, as it may entail extensive",
+        "Length": 159
+    },
+    {
+        "Index": 456,
+        "Title": "Machine Unlearning of Pre-trained Large Language Models.",
+        "Start": "This study investigates the concept of the ‘right to be forgotten’ within the context of",
+        "Length": 147
+    },
+    {
+        "Index": 457,
+        "Title": "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals.",
+        "Start": "Interpretability research aims to bridge the gap between the empirical success and our scientific understanding",
+        "Length": 128
+    },
+    {
+        "Index": 458,
+        "Title": "FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence.",
+        "Start": "Plain language summarization with LLMs can be useful for improving textual accessibility of technical content.",
+        "Length": 176
+    },
+    {
+        "Index": 459,
+        "Title": "BvSP: Broad-view Soft Prompting for Few-Shot Aspect Sentiment Quad Prediction.",
+        "Start": "Aspect sentiment quad prediction (ASQP) aims to predict four aspect-based elements, including aspect term, opinion",
+        "Length": 222
+    },
+    {
+        "Index": 460,
+        "Title": "Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack.",
+        "Start": "Recent developments in balancing the usefulness and safety of Large Language Models (LLMs) have raised",
+        "Length": 146
+    },
+    {
+        "Index": 461,
+        "Title": "Speech language models lack important brain-relevant semantics.",
+        "Start": "Despite known differences between reading and listening in the brain, recent work has shown that",
+        "Length": 182
+    },
+    {
+        "Index": 462,
+        "Title": "DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding.",
+        "Start": "Enterprise documents such as forms, receipts, reports, and other such records, often carry rich semantics",
+        "Length": 190
+    },
+    {
+        "Index": 463,
+        "Title": "Bypassing LLM Watermarks with Color-Aware Substitutions.",
+        "Start": "Watermarking approaches are proposed to identify if text being circulated is human- or large language",
+        "Length": 140
+    },
+    {
+        "Index": 464,
+        "Title": "Parallel Structures in Pre-training Data Yield In-Context Learning.",
+        "Start": "Pre-trained language models (LMs) are capable of in-context learning (ICL): they can adapt to a",
+        "Length": 182
+    },
+    {
+        "Index": 465,
+        "Title": "OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models.",
+        "Start": "Neural Theory-of-Mind (N-ToM), machine’s ability to understand and keep track of the mental states of",
+        "Length": 146
+    },
+    {
+        "Index": 466,
+        "Title": "Towards Privacy-Aware Sign Language Translation at Scale.",
+        "Start": "A major impediment to the advancement of sign language translation (SLT) is data scarcity. Much",
+        "Length": 151
+    },
+    {
+        "Index": 467,
+        "Title": "Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards.",
+        "Start": "Fine-grained control over large language models (LLMs) remains a significant challenge, hindering their adaptability to",
+        "Length": 198
+    },
+    {
+        "Index": 468,
+        "Title": "Towards Real-World Writing Assistance: A Chinese Character Checking Benchmark with Faked and Misspelled Characters.",
+        "Start": "Writing assistance aims to improve the correctness and quality of input texts, with character checking",
+        "Length": 178
+    },
+    {
+        "Index": 469,
+        "Title": "RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations.",
+        "Start": "Individual neurons participate in the representation of multiple high-level concepts. To what extent can different",
+        "Length": 111
+    },
+    {
+        "Index": 470,
+        "Title": "Large Language Models as Zero-shot Dialogue State Tracker through Function Calling.",
+        "Start": "Large language models (LLMs) are increasingly prevalent in conversational systems due to their advanced understanding",
+        "Length": 199
+    },
+    {
+        "Index": 471,
+        "Title": "Faithful Chart Summarization with ChaTS-Pi.",
+        "Start": "Chart-to-summary generation can help explore data, communicate insights, and help the visually impaired people. Multi-modal",
+        "Length": 147
+    },
+    {
+        "Index": 472,
+        "Title": "Enhancing Dialogue State Tracking Models through LLM-backed User-Agents Simulation.",
+        "Start": "Dialogue State Tracking (DST) is designed to monitor the evolving dialogue state in the conversations",
+        "Length": 181
+    },
+    {
+        "Index": 473,
+        "Title": "MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking.",
+        "Start": "Fact-checking real-world claims often requires reviewing multiple multimodal documents in order to assess the claim’s",
+        "Length": 159
+    },
+    {
+        "Index": 474,
+        "Title": "Systematic Task Exploration with LLMs: A Study in Citation Text Generation.",
+        "Start": "Large language models (LLMs) bring unprecedented flexibility in defining and executing complex, creative natural language",
+        "Length": 163
+    },
+    {
+        "Index": 475,
+        "Title": "ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis.",
+        "Start": "Large language models (LLMs) have achieved commendable accomplishments in various natural language processing tasks. However,",
+        "Length": 131
+    },
+    {
+        "Index": 476,
+        "Title": "On the Multi-turn Instruction Following for Conversational Web Agents.",
+        "Start": "Web agents powered by Large Language Models (LLMs) have demonstrated remarkable abilities in planning and",
+        "Length": 141
+    },
+    {
+        "Index": 477,
+        "Title": "Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents.",
+        "Start": "With the remarkable advancements of large language models (LLMs), LLM-based agents have become a research",
+        "Length": 205
+    },
+    {
+        "Index": 478,
+        "Title": "MC²: Towards Transparent and Culturally-Aware NLP for Minority Languages in China.",
+        "Start": "Current large language models demonstrate deficiencies in understanding low-resource languages, particularly the minority languages in",
+        "Length": 154
+    },
+    {
+        "Index": 479,
+        "Title": "Decoder-only Streaming Transformer for Simultaneous Translation.",
+        "Start": "Simultaneous Machine Translation (SiMT) generates translation while reading source tokens, essentially producing the target prefix",
+        "Length": 185
+    },
+    {
+        "Index": 480,
+        "Title": "Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization.",
+        "Start": "While significant attention has been dedicated to exploiting weaknesses in LLMs through jailbreaking attacks, there",
+        "Length": 183
+    },
+    {
+        "Index": 481,
+        "Title": "I am a Strange Dataset: Metalinguistic Tests for Language Models.",
+        "Start": "Statements involving metalinguistic self-reference (“This paper has six sections.”) are prevalent in many domains. Can",
+        "Length": 204
+    },
+    {
+        "Index": 482,
+        "Title": "TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space.",
+        "Start": "Large Language Models (LLMs) sometimes suffer from producing hallucinations, especially LLMs may generate untruthful responses",
+        "Length": 152
+    },
+    {
+        "Index": 483,
+        "Title": "ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training.",
+        "Start": "We propose ProtLLM, a versatile cross-modal large language model (LLM) for both protein-centric and protein-language",
+        "Length": 165
+    },
+    {
+        "Index": 484,
+        "Title": "StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning.",
+        "Start": "Simultaneous speech-to-speech translation (Simul-S2ST, a.k.a streaming speech translation) outputs target speech while receiving streaming speech",
+        "Length": 146
+    },
+    {
+        "Index": 485,
+        "Title": "Investigating Multi-Hop Factual Shortcuts in Knowledge Editing of Large Language Models.",
+        "Start": "Recent work has showcased the powerful capability of large language models (LLMs) in recalling knowledge",
+        "Length": 189
+    },
+    {
+        "Index": 486,
+        "Title": "Why Don't Prompt-Based Fairness Metrics Correlate?",
+        "Start": "The widespread use of large language models has brought up essential questions about the potential",
+        "Length": 161
+    },
+    {
+        "Index": 487,
+        "Title": "NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data.",
+        "Start": "To address the global issue of online hate, hate speech detection (HSD) systems are typically",
+        "Length": 199
+    },
+    {
+        "Index": 488,
+        "Title": "M³AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset.",
+        "Start": "Publishing open-source academic video recordings is an emergent and prevalent approach to sharing knowledge online.",
+        "Length": 166
+    },
+    {
+        "Index": 489,
+        "Title": "Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination.",
+        "Start": "Instruction-following language models often show undesirable biases. These undesirable biases may be accelerated in the",
+        "Length": 154
+    },
+    {
+        "Index": 490,
+        "Title": "Domain Adaptation for Subjective Induction Questions Answering on Products by Adversarial Disentangled Learning.",
+        "Start": "This paper focuses on answering subjective questions about products. Different from the factoid question with",
+        "Length": 191
+    },
+    {
+        "Index": 491,
+        "Title": "Revisiting Demonstration Selection Strategies in In-Context Learning.",
+        "Start": "Large language models (LLMs) have shown an impressive ability to perform a wide range of",
+        "Length": 169
+    },
+    {
+        "Index": 492,
+        "Title": "Multimodal Table Understanding.",
+        "Start": "Although great progress has been made by previous table understanding methods including recent approaches based",
+        "Length": 174
+    },
+    {
+        "Index": 493,
+        "Title": "Ex3: Automatic Novel Writing by Extracting, Excelsior and Expanding.",
+        "Start": "Generating long-term texts such as novels using artificial intelligence has always been a challenge. A",
+        "Length": 150
+    },
+    {
+        "Index": 494,
+        "Title": "Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning.",
+        "Start": "Existing Knowledge Base Question Answering (KBQA) architectures are hungry for annotated data, which make them",
+        "Length": 133
+    },
+    {
+        "Index": 495,
+        "Title": "WatME: Towards Lossless Watermarking Through Lexical Redundancy.",
+        "Start": "Text watermarking has emerged as a pivotal technique for identifying machine-generated text. However, existing methods",
+        "Length": 180
+    },
+    {
+        "Index": 496,
+        "Title": "Text-like Encoding of Collaborative Information in Large Language Models for Recommendation.",
+        "Start": "When adapting Large Language Models for Recommendation (LLMRec), it is crucial to integrate collaborative information.",
+        "Length": 149
+    },
+    {
+        "Index": 497,
+        "Title": "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception.",
+        "Start": "Recent advancements in Multimodal Large Language Models (MLLMs) have demonstrated exceptional capabilities in visual perception",
+        "Length": 186
+    },
+    {
+        "Index": 498,
+        "Title": "Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning.",
+        "Start": "Large language models exhibit high-level commonsense reasoning abilities, especially with enhancement methods like Chain-of-Thought (CoT).",
+        "Length": 158
+    },
+    {
+        "Index": 499,
+        "Title": "Multi-Aspect Controllable Text Generation with Disentangled Counterfactual Augmentation.",
+        "Start": "Multi-aspect controllable text generation aims to control the generated texts in attributes from multiple aspects",
+        "Length": 115
+    }
+]

@@ -1,0 +1,5 @@
+provider: autogen_ext.models.openai.OpenAIChatCompletionClient
+config:
+  model: gpt-3.5-turbo
+  api_key: hk-p5ioqc10000518971d72d52ca5b76fcd3c56b2c5dac4a312
+  base_url: https://api.openai-hk.com/v1/
