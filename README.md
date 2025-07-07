@@ -7,7 +7,7 @@
 - R-detect: `python = 3.12`
 
 
-要运行得到各个baseline的结果，分别需要运行各个文件夹下的如下文件：
+要运行得到各个baseline的结果，需要先从`my_work`中复制dataset到对应baseline文件夹下，然后分别运行各个文件夹下的如下文件：
 - Binoculars: `test.py`.
 - detect-gpt: `run.py`.
 - fast-detect-gpt: `scripts/local_infer.py`
